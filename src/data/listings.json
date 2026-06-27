@@ -1,0 +1,5657 @@
+[
+  {
+    "id": "park-west-park-west-blvd-4363-1",
+    "mlsId": "CHS2400137",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4363%20Park%20West%20Blvd%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4363%20Park%20West%20Blvd%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4363%20Park%20West%20Blvd%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.851703,-79.833391",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-park-west-park-west-blvd-4363-1"
+    },
+    "photos": [
+      "https://picsum.photos/seed/park-west-park-west-blvd-4363-1-a/960/640",
+      "https://picsum.photos/seed/park-west-park-west-blvd-4363-1-b/960/640",
+      "https://picsum.photos/seed/park-west-park-west-blvd-4363-1-c/960/640",
+      "https://picsum.photos/seed/park-west-park-west-blvd-4363-1-d/960/640"
+    ],
+    "address": "4363 Park West Blvd",
+    "lat": 32.851703,
+    "lng": -79.833391,
+    "neighborhood": "Park West",
+    "subdivision": "Park West",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2017,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2840,
+    "lotSizeAcres": 0.2,
+    "price": 850000,
+    "hoaMonthly": 100,
+    "annualTaxes": 4525,
+    "estInsuranceAnnual": 5600,
+    "estFloodInsuranceAnnual": 675,
+    "floodZone": "X (shaded)",
+    "floodHistory": "Within the 0.2%-annual (500-yr) zone; no recorded structural flood losses.",
+    "daysOnMarket": 14,
+    "priceHistory": [
+      {
+        "date": "2026-06-13",
+        "price": 850000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Brand Name Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 6,
+      "hvacAgeYears": 8,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Carolina Park Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 30,
+    "bikeScore": 47,
+    "transitScore": 24,
+    "commute": {
+      "airportCHS": 24,
+      "downtown": 27,
+      "beach": 13,
+      "costco": 5,
+      "publix": 7,
+      "boeing": 26,
+      "jointBaseCharleston": 32,
+      "hospital": 13,
+      "flightSchool": 28,
+      "parks": 7,
+      "boatRamp": 15,
+      "shopping": 6
+    }
+  },
+  {
+    "id": "park-west-bridgepointe-dr-285-2",
+    "mlsId": "CHS2400274",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/285%20Bridgepointe%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/285%20Bridgepointe%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=285%20Bridgepointe%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.853979,-79.831006",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-park-west-bridgepointe-dr-285-2"
+    },
+    "photos": [
+      "https://picsum.photos/seed/park-west-bridgepointe-dr-285-2-a/960/640",
+      "https://picsum.photos/seed/park-west-bridgepointe-dr-285-2-b/960/640",
+      "https://picsum.photos/seed/park-west-bridgepointe-dr-285-2-c/960/640",
+      "https://picsum.photos/seed/park-west-bridgepointe-dr-285-2-d/960/640"
+    ],
+    "address": "285 Bridgepointe Dr",
+    "lat": 32.853979,
+    "lng": -79.831006,
+    "neighborhood": "Park West",
+    "subdivision": "Park West",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "Toll Brothers",
+    "yearBuilt": 2019,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 3165,
+    "lotSizeAcres": 0.14,
+    "price": 807000,
+    "hoaMonthly": 110,
+    "annualTaxes": 3850,
+    "estInsuranceAnnual": 4750,
+    "estFloodInsuranceAnnual": 500,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 15,
+    "priceHistory": [
+      {
+        "date": "2026-06-12",
+        "price": 807000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Matt O'Neill Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 7,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Charles Pinckney Elementary",
+        "rating": 9
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 26,
+    "bikeScore": 49,
+    "transitScore": 18,
+    "commute": {
+      "airportCHS": 27,
+      "downtown": 29,
+      "beach": 14,
+      "costco": 6,
+      "publix": 7,
+      "boeing": 29,
+      "jointBaseCharleston": 33,
+      "hospital": 9,
+      "flightSchool": 25,
+      "parks": 4,
+      "boatRamp": 15,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "park-west-ballantine-dr-1697-3",
+    "mlsId": "CHS2400411",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1697%20Ballantine%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1697%20Ballantine%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1697%20Ballantine%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.867089,-79.82133"
+    },
+    "photos": [
+      "https://picsum.photos/seed/park-west-ballantine-dr-1697-3-a/960/640",
+      "https://picsum.photos/seed/park-west-ballantine-dr-1697-3-b/960/640",
+      "https://picsum.photos/seed/park-west-ballantine-dr-1697-3-c/960/640",
+      "https://picsum.photos/seed/park-west-ballantine-dr-1697-3-d/960/640"
+    ],
+    "address": "1697 Ballantine Dr",
+    "lat": 32.867089,
+    "lng": -79.82133,
+    "neighborhood": "Park West",
+    "subdivision": "Park West",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "K. Hovnanian Homes",
+    "yearBuilt": 2020,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2864,
+    "lotSizeAcres": 0.3,
+    "price": 850000,
+    "hoaMonthly": 115,
+    "annualTaxes": 4200,
+    "estInsuranceAnnual": 5250,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 84,
+    "priceHistory": [
+      {
+        "date": "2026-04-04",
+        "price": 882000
+      },
+      {
+        "date": "2026-05-24",
+        "price": 850000
+      }
+    ],
+    "sellerConcessions": 8500,
+    "listingAgent": "EXP Realty LLC",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 0,
+      "hvacAgeYears": 1,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Charles Pinckney Elementary",
+        "rating": 9
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 39,
+    "bikeScore": 52,
+    "transitScore": 16,
+    "commute": {
+      "airportCHS": 26,
+      "downtown": 30,
+      "beach": 19,
+      "costco": 7,
+      "publix": 4,
+      "boeing": 25,
+      "jointBaseCharleston": 31,
+      "hospital": 13,
+      "flightSchool": 26,
+      "parks": 8,
+      "boatRamp": 13,
+      "shopping": 6
+    }
+  },
+  {
+    "id": "carolina-park-wodin-pl-3569-4",
+    "mlsId": "CHS2400548",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3569%20Wodin%20Pl%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3569%20Wodin%20Pl%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3569%20Wodin%20Pl%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.854982,-79.807526",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-carolina-park-wodin-pl-3569-4"
+    },
+    "photos": [
+      "https://picsum.photos/seed/carolina-park-wodin-pl-3569-4-a/960/640",
+      "https://picsum.photos/seed/carolina-park-wodin-pl-3569-4-b/960/640",
+      "https://picsum.photos/seed/carolina-park-wodin-pl-3569-4-c/960/640",
+      "https://picsum.photos/seed/carolina-park-wodin-pl-3569-4-d/960/640"
+    ],
+    "address": "3569 Wodin Pl",
+    "lat": 32.854982,
+    "lng": -79.807526,
+    "neighborhood": "Carolina Park",
+    "subdivision": "Carolina Park",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2017,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 3,
+    "sqft": 1889,
+    "lotSizeAcres": 0.06,
+    "price": 560000,
+    "hoaMonthly": 245,
+    "annualTaxes": 3150,
+    "estInsuranceAnnual": 4300,
+    "estFloodInsuranceAnnual": 2100,
+    "floodZone": "AE",
+    "floodHistory": "Within a FEMA Special Flood Hazard Area; verify Elevation Certificate and any prior claims.",
+    "daysOnMarket": 57,
+    "priceHistory": [
+      {
+        "date": "2026-05-01",
+        "price": 560000
+      }
+    ],
+    "sellerConcessions": 4500,
+    "listingAgent": "Brand Name Real Estate",
+    "propertyType": "Townhome",
+    "condition": {
+      "roofAgeYears": 7,
+      "hvacAgeYears": 9,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Carolina Park Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Cario Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 28,
+    "bikeScore": 40,
+    "transitScore": 22,
+    "commute": {
+      "airportCHS": 26,
+      "downtown": 27,
+      "beach": 14,
+      "costco": 10,
+      "publix": 6,
+      "boeing": 31,
+      "jointBaseCharleston": 30,
+      "hospital": 10,
+      "flightSchool": 26,
+      "parks": 5,
+      "boatRamp": 12,
+      "shopping": 5
+    }
+  },
+  {
+    "id": "carolina-park-sanders-farm-ln-3591-5",
+    "mlsId": "CHS2400685",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3591%20Sanders%20Farm%20Ln%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3591%20Sanders%20Farm%20Ln%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3591%20Sanders%20Farm%20Ln%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.859653,-79.807386",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-carolina-park-sanders-farm-ln-3591-5"
+    },
+    "photos": [
+      "https://picsum.photos/seed/carolina-park-sanders-farm-ln-3591-5-a/960/640",
+      "https://picsum.photos/seed/carolina-park-sanders-farm-ln-3591-5-b/960/640",
+      "https://picsum.photos/seed/carolina-park-sanders-farm-ln-3591-5-c/960/640",
+      "https://picsum.photos/seed/carolina-park-sanders-farm-ln-3591-5-d/960/640"
+    ],
+    "address": "3591 Sanders Farm Ln",
+    "lat": 32.859653,
+    "lng": -79.807386,
+    "neighborhood": "Carolina Park",
+    "subdivision": "Carolina Park",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "John Wieland Homes",
+    "yearBuilt": 2023,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 3298,
+    "lotSizeAcres": 0.3,
+    "price": 850000,
+    "hoaMonthly": 110,
+    "annualTaxes": 4725,
+    "estInsuranceAnnual": 5350,
+    "estFloodInsuranceAnnual": 475,
+    "floodZone": "X (shaded)",
+    "floodHistory": "Within the 0.2%-annual (500-yr) zone; no recorded structural flood losses.",
+    "daysOnMarket": 38,
+    "priceHistory": [
+      {
+        "date": "2026-05-20",
+        "price": 873000
+      },
+      {
+        "date": "2026-06-12",
+        "price": 850000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Matt O'Neill Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 2,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Charles Pinckney Elementary",
+        "rating": 9
+      },
+      "middle": {
+        "name": "Cario Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 45,
+    "bikeScore": 48,
+    "transitScore": 10,
+    "commute": {
+      "airportCHS": 26,
+      "downtown": 27,
+      "beach": 16,
+      "costco": 9,
+      "publix": 6,
+      "boeing": 28,
+      "jointBaseCharleston": 30,
+      "hospital": 13,
+      "flightSchool": 27,
+      "parks": 4,
+      "boatRamp": 13,
+      "shopping": 4
+    }
+  },
+  {
+    "id": "carolina-park-carolina-park-blvd-1592-6",
+    "mlsId": "CHS2400822",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1592%20Carolina%20Park%20Blvd%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1592%20Carolina%20Park%20Blvd%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1592%20Carolina%20Park%20Blvd%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.861794,-79.795086",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-carolina-park-carolina-park-blvd-1592-6"
+    },
+    "photos": [
+      "https://picsum.photos/seed/carolina-park-carolina-park-blvd-1592-6-a/960/640",
+      "https://picsum.photos/seed/carolina-park-carolina-park-blvd-1592-6-b/960/640",
+      "https://picsum.photos/seed/carolina-park-carolina-park-blvd-1592-6-c/960/640",
+      "https://picsum.photos/seed/carolina-park-carolina-park-blvd-1592-6-d/960/640"
+    ],
+    "address": "1592 Carolina Park Blvd",
+    "lat": 32.861794,
+    "lng": -79.795086,
+    "neighborhood": "Carolina Park",
+    "subdivision": "Carolina Park",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "John Wieland Homes",
+    "yearBuilt": 2018,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 3296,
+    "lotSizeAcres": 0.2,
+    "price": 850000,
+    "hoaMonthly": 110,
+    "annualTaxes": 4675,
+    "estInsuranceAnnual": 5650,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 43,
+    "priceHistory": [
+      {
+        "date": "2026-05-15",
+        "price": 850000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "EXP Realty LLC",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 3,
+      "hvacAgeYears": 1,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Charles Pinckney Elementary",
+        "rating": 9
+      },
+      "middle": {
+        "name": "Cario Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 54,
+    "bikeScore": 37,
+    "transitScore": 21,
+    "commute": {
+      "airportCHS": 28,
+      "downtown": 27,
+      "beach": 15,
+      "costco": 8,
+      "publix": 2,
+      "boeing": 27,
+      "jointBaseCharleston": 31,
+      "hospital": 12,
+      "flightSchool": 27,
+      "parks": 5,
+      "boatRamp": 13,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "dunes-west-harper-lake-dr-730-7",
+    "mlsId": "CHS2400959",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/730%20Harper%20Lake%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/730%20Harper%20Lake%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=730%20Harper%20Lake%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.863743,-79.826324",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-dunes-west-harper-lake-dr-730-7"
+    },
+    "photos": [
+      "https://picsum.photos/seed/dunes-west-harper-lake-dr-730-7-a/960/640",
+      "https://picsum.photos/seed/dunes-west-harper-lake-dr-730-7-b/960/640",
+      "https://picsum.photos/seed/dunes-west-harper-lake-dr-730-7-c/960/640",
+      "https://picsum.photos/seed/dunes-west-harper-lake-dr-730-7-d/960/640"
+    ],
+    "address": "730 Harper Lake Dr",
+    "lat": 32.863743,
+    "lng": -79.826324,
+    "neighborhood": "Dunes West",
+    "subdivision": "Dunes West",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "John Wieland Homes",
+    "yearBuilt": 2022,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2356,
+    "lotSizeAcres": 0.14,
+    "price": 644000,
+    "hoaMonthly": 170,
+    "annualTaxes": 3050,
+    "estInsuranceAnnual": 4450,
+    "estFloodInsuranceAnnual": 575,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 42,
+    "priceHistory": [
+      {
+        "date": "2026-05-16",
+        "price": 668000
+      },
+      {
+        "date": "2026-06-10",
+        "price": 644000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "The Boulevard Company",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 3,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Laurel Hill Primary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 47,
+    "bikeScore": 40,
+    "transitScore": 24,
+    "commute": {
+      "airportCHS": 26,
+      "downtown": 31,
+      "beach": 17,
+      "costco": 8,
+      "publix": 4,
+      "boeing": 29,
+      "jointBaseCharleston": 28,
+      "hospital": 7,
+      "flightSchool": 27,
+      "parks": 7,
+      "boatRamp": 12,
+      "shopping": 5
+    }
+  },
+  {
+    "id": "dunes-west-saint-thomas-dr-174-8",
+    "mlsId": "CHS2401096",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/174%20Saint%20Thomas%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/174%20Saint%20Thomas%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=174%20Saint%20Thomas%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.864187,-79.845598"
+    },
+    "photos": [
+      "https://picsum.photos/seed/dunes-west-saint-thomas-dr-174-8-a/960/640",
+      "https://picsum.photos/seed/dunes-west-saint-thomas-dr-174-8-b/960/640",
+      "https://picsum.photos/seed/dunes-west-saint-thomas-dr-174-8-c/960/640",
+      "https://picsum.photos/seed/dunes-west-saint-thomas-dr-174-8-d/960/640"
+    ],
+    "address": "174 Saint Thomas Dr",
+    "lat": 32.864187,
+    "lng": -79.845598,
+    "neighborhood": "Dunes West",
+    "subdivision": "Dunes West",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2023,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2137,
+    "lotSizeAcres": 0.16,
+    "price": 618000,
+    "hoaMonthly": 90,
+    "annualTaxes": 3325,
+    "estInsuranceAnnual": 4600,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 28,
+    "priceHistory": [
+      {
+        "date": "2026-05-30",
+        "price": 618000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "EXP Realty LLC",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 1,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Charles Pinckney Elementary",
+        "rating": 9
+      },
+      "middle": {
+        "name": "Cario Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 36,
+    "bikeScore": 46,
+    "transitScore": 22,
+    "commute": {
+      "airportCHS": 23,
+      "downtown": 27,
+      "beach": 16,
+      "costco": 11,
+      "publix": 8,
+      "boeing": 27,
+      "jointBaseCharleston": 31,
+      "hospital": 10,
+      "flightSchool": 25,
+      "parks": 8,
+      "boatRamp": 10,
+      "shopping": 6
+    }
+  },
+  {
+    "id": "oyster-point-tidewater-dr-2693-9",
+    "mlsId": "CHS2401233",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2693%20Tidewater%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2693%20Tidewater%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2693%20Tidewater%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.840422,-79.827631"
+    },
+    "photos": [
+      "https://picsum.photos/seed/oyster-point-tidewater-dr-2693-9-a/960/640",
+      "https://picsum.photos/seed/oyster-point-tidewater-dr-2693-9-b/960/640",
+      "https://picsum.photos/seed/oyster-point-tidewater-dr-2693-9-c/960/640",
+      "https://picsum.photos/seed/oyster-point-tidewater-dr-2693-9-d/960/640"
+    ],
+    "address": "2693 Tidewater Dr",
+    "lat": 32.840422,
+    "lng": -79.827631,
+    "neighborhood": "Oyster Point",
+    "subdivision": "Oyster Point",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "Toll Brothers",
+    "yearBuilt": 2021,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2976,
+    "lotSizeAcres": 0.18,
+    "price": 825000,
+    "hoaMonthly": 130,
+    "annualTaxes": 3800,
+    "estInsuranceAnnual": 5850,
+    "estFloodInsuranceAnnual": 675,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 17,
+    "priceHistory": [
+      {
+        "date": "2026-06-10",
+        "price": 825000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Coldwell Banker Realty",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 0,
+      "hvacAgeYears": 3,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Laurel Hill Primary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 39,
+    "bikeScore": 52,
+    "transitScore": 17,
+    "commute": {
+      "airportCHS": 25,
+      "downtown": 26,
+      "beach": 17,
+      "costco": 8,
+      "publix": 5,
+      "boeing": 31,
+      "jointBaseCharleston": 31,
+      "hospital": 9,
+      "flightSchool": 29,
+      "parks": 7,
+      "boatRamp": 11,
+      "shopping": 4
+    }
+  },
+  {
+    "id": "oyster-point-crab-bank-dr-3781-10",
+    "mlsId": "CHS2401370",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3781%20Crab%20Bank%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3781%20Crab%20Bank%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3781%20Crab%20Bank%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.84189,-79.828442",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-oyster-point-crab-bank-dr-3781-10"
+    },
+    "photos": [
+      "https://picsum.photos/seed/oyster-point-crab-bank-dr-3781-10-a/960/640",
+      "https://picsum.photos/seed/oyster-point-crab-bank-dr-3781-10-b/960/640",
+      "https://picsum.photos/seed/oyster-point-crab-bank-dr-3781-10-c/960/640",
+      "https://picsum.photos/seed/oyster-point-crab-bank-dr-3781-10-d/960/640"
+    ],
+    "address": "3781 Crab Bank Dr",
+    "lat": 32.84189,
+    "lng": -79.828442,
+    "neighborhood": "Oyster Point",
+    "subdivision": "Oyster Point",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2021,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2123,
+    "lotSizeAcres": 0.07,
+    "price": 560000,
+    "hoaMonthly": 250,
+    "annualTaxes": 2475,
+    "estInsuranceAnnual": 3450,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X (shaded)",
+    "floodHistory": "Within the 0.2%-annual (500-yr) zone; no recorded structural flood losses.",
+    "daysOnMarket": 14,
+    "priceHistory": [
+      {
+        "date": "2026-06-13",
+        "price": 560000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Dunes Properties",
+    "propertyType": "Townhome",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 3,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Laurel Hill Primary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Cario Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 31,
+    "bikeScore": 36,
+    "transitScore": 22,
+    "commute": {
+      "airportCHS": 26,
+      "downtown": 31,
+      "beach": 14,
+      "costco": 8,
+      "publix": 6,
+      "boeing": 30,
+      "jointBaseCharleston": 27,
+      "hospital": 9,
+      "flightSchool": 27,
+      "parks": 4,
+      "boatRamp": 10,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "liberty-hill-farm-liberty-hill-farm-rd-1182-11",
+    "mlsId": "CHS2401507",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1182%20Liberty%20Hill%20Farm%20Rd%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1182%20Liberty%20Hill%20Farm%20Rd%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1182%20Liberty%20Hill%20Farm%20Rd%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.863922,-79.798667",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-liberty-hill-farm-liberty-hill-farm-rd-1182-11"
+    },
+    "photos": [
+      "https://picsum.photos/seed/liberty-hill-farm-liberty-hill-farm-rd-1182-11-a/960/640",
+      "https://picsum.photos/seed/liberty-hill-farm-liberty-hill-farm-rd-1182-11-b/960/640",
+      "https://picsum.photos/seed/liberty-hill-farm-liberty-hill-farm-rd-1182-11-c/960/640",
+      "https://picsum.photos/seed/liberty-hill-farm-liberty-hill-farm-rd-1182-11-d/960/640"
+    ],
+    "address": "1182 Liberty Hill Farm Rd",
+    "lat": 32.863922,
+    "lng": -79.798667,
+    "neighborhood": "Liberty Hill Farm",
+    "subdivision": "Liberty Hill Farm",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2017,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 1,
+    "sqft": 2511,
+    "lotSizeAcres": 0.24,
+    "price": 800000,
+    "hoaMonthly": 160,
+    "annualTaxes": 4100,
+    "estInsuranceAnnual": 5650,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 54,
+    "priceHistory": [
+      {
+        "date": "2026-05-04",
+        "price": 800000
+      }
+    ],
+    "sellerConcessions": 9500,
+    "listingAgent": "Dunes Properties",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 4,
+      "hvacAgeYears": 4,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Laurel Hill Primary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 54,
+    "bikeScore": 39,
+    "transitScore": 17,
+    "commute": {
+      "airportCHS": 29,
+      "downtown": 31,
+      "beach": 17,
+      "costco": 9,
+      "publix": 7,
+      "boeing": 29,
+      "jointBaseCharleston": 32,
+      "hospital": 8,
+      "flightSchool": 27,
+      "parks": 4,
+      "boatRamp": 13,
+      "shopping": 5
+    }
+  },
+  {
+    "id": "liberty-hill-farm-wildflower-ln-3341-12",
+    "mlsId": "CHS2401644",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3341%20Wildflower%20Ln%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3341%20Wildflower%20Ln%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3341%20Wildflower%20Ln%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.851405,-79.8203"
+    },
+    "photos": [
+      "https://picsum.photos/seed/liberty-hill-farm-wildflower-ln-3341-12-a/960/640",
+      "https://picsum.photos/seed/liberty-hill-farm-wildflower-ln-3341-12-b/960/640",
+      "https://picsum.photos/seed/liberty-hill-farm-wildflower-ln-3341-12-c/960/640",
+      "https://picsum.photos/seed/liberty-hill-farm-wildflower-ln-3341-12-d/960/640"
+    ],
+    "address": "3341 Wildflower Ln",
+    "lat": 32.851405,
+    "lng": -79.8203,
+    "neighborhood": "Liberty Hill Farm",
+    "subdivision": "Liberty Hill Farm",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "K. Hovnanian Homes",
+    "yearBuilt": 2023,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 3011,
+    "lotSizeAcres": 0.26,
+    "price": 850000,
+    "hoaMonthly": 105,
+    "annualTaxes": 4000,
+    "estInsuranceAnnual": 5300,
+    "estFloodInsuranceAnnual": 950,
+    "floodZone": "AE",
+    "floodHistory": "Within a FEMA Special Flood Hazard Area; verify Elevation Certificate and any prior claims.",
+    "daysOnMarket": 49,
+    "priceHistory": [
+      {
+        "date": "2026-05-09",
+        "price": 850000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Matt O'Neill Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 1,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Carolina Park Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 52,
+    "bikeScore": 43,
+    "transitScore": 14,
+    "commute": {
+      "airportCHS": 25,
+      "downtown": 28,
+      "beach": 16,
+      "costco": 5,
+      "publix": 7,
+      "boeing": 29,
+      "jointBaseCharleston": 30,
+      "hospital": 7,
+      "flightSchool": 25,
+      "parks": 7,
+      "boatRamp": 15,
+      "shopping": 4
+    }
+  },
+  {
+    "id": "rivertowne-rivertowne-pkwy-4706-13",
+    "mlsId": "CHS2401781",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4706%20Rivertowne%20Pkwy%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4706%20Rivertowne%20Pkwy%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4706%20Rivertowne%20Pkwy%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.845606,-79.819148"
+    },
+    "photos": [
+      "https://picsum.photos/seed/rivertowne-rivertowne-pkwy-4706-13-a/960/640",
+      "https://picsum.photos/seed/rivertowne-rivertowne-pkwy-4706-13-b/960/640",
+      "https://picsum.photos/seed/rivertowne-rivertowne-pkwy-4706-13-c/960/640",
+      "https://picsum.photos/seed/rivertowne-rivertowne-pkwy-4706-13-d/960/640"
+    ],
+    "address": "4706 Rivertowne Pkwy",
+    "lat": 32.845606,
+    "lng": -79.819148,
+    "neighborhood": "Rivertowne",
+    "subdivision": "Rivertowne",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2016,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 1,
+    "sqft": 2516,
+    "lotSizeAcres": 0.18,
+    "price": 773000,
+    "hoaMonthly": 160,
+    "annualTaxes": 3450,
+    "estInsuranceAnnual": 5550,
+    "estFloodInsuranceAnnual": 600,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 64,
+    "priceHistory": [
+      {
+        "date": "2026-04-24",
+        "price": 773000
+      }
+    ],
+    "sellerConcessions": 7000,
+    "listingAgent": "Carolina One Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 4,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Charles Pinckney Elementary",
+        "rating": 9
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 25,
+    "bikeScore": 37,
+    "transitScore": 13,
+    "commute": {
+      "airportCHS": 26,
+      "downtown": 26,
+      "beach": 18,
+      "costco": 7,
+      "publix": 7,
+      "boeing": 29,
+      "jointBaseCharleston": 33,
+      "hospital": 13,
+      "flightSchool": 25,
+      "parks": 5,
+      "boatRamp": 13,
+      "shopping": 3
+    }
+  },
+  {
+    "id": "rivertowne-sweetbay-dr-4302-14",
+    "mlsId": "CHS2401918",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4302%20Sweetbay%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4302%20Sweetbay%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4302%20Sweetbay%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.846256,-79.818362"
+    },
+    "photos": [
+      "https://picsum.photos/seed/rivertowne-sweetbay-dr-4302-14-a/960/640",
+      "https://picsum.photos/seed/rivertowne-sweetbay-dr-4302-14-b/960/640",
+      "https://picsum.photos/seed/rivertowne-sweetbay-dr-4302-14-c/960/640",
+      "https://picsum.photos/seed/rivertowne-sweetbay-dr-4302-14-d/960/640"
+    ],
+    "address": "4302 Sweetbay Dr",
+    "lat": 32.846256,
+    "lng": -79.818362,
+    "neighborhood": "Rivertowne",
+    "subdivision": "Rivertowne",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "Toll Brothers",
+    "yearBuilt": 2021,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 1,
+    "sqft": 2582,
+    "lotSizeAcres": 0.18,
+    "price": 704000,
+    "hoaMonthly": 100,
+    "annualTaxes": 3625,
+    "estInsuranceAnnual": 4500,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 57,
+    "priceHistory": [
+      {
+        "date": "2026-05-01",
+        "price": 704000
+      }
+    ],
+    "sellerConcessions": 7000,
+    "listingAgent": "Dunes Properties",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 3,
+      "hvacAgeYears": 5,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Charles Pinckney Elementary",
+        "rating": 9
+      },
+      "middle": {
+        "name": "Cario Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 30,
+    "bikeScore": 37,
+    "transitScore": 11,
+    "commute": {
+      "airportCHS": 25,
+      "downtown": 26,
+      "beach": 14,
+      "costco": 10,
+      "publix": 8,
+      "boeing": 30,
+      "jointBaseCharleston": 32,
+      "hospital": 7,
+      "flightSchool": 23,
+      "parks": 4,
+      "boatRamp": 13,
+      "shopping": 6
+    }
+  },
+  {
+    "id": "hamlin-plantation-planters-trace-loop-2828-15",
+    "mlsId": "CHS2402055",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2828%20Planters%20Trace%20Loop%20Unit%2014%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2828%20Planters%20Trace%20Loop%20Unit%2014%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2828%20Planters%20Trace%20Loop%20Unit%2014%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.847212,-79.806814",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-hamlin-plantation-planters-trace-loop-2828-15"
+    },
+    "photos": [
+      "https://picsum.photos/seed/hamlin-plantation-planters-trace-loop-2828-15-a/960/640",
+      "https://picsum.photos/seed/hamlin-plantation-planters-trace-loop-2828-15-b/960/640",
+      "https://picsum.photos/seed/hamlin-plantation-planters-trace-loop-2828-15-c/960/640",
+      "https://picsum.photos/seed/hamlin-plantation-planters-trace-loop-2828-15-d/960/640"
+    ],
+    "address": "2828 Planters Trace Loop Unit 14",
+    "lat": 32.847212,
+    "lng": -79.806814,
+    "neighborhood": "Hamlin Plantation",
+    "subdivision": "Hamlin Plantation",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "John Wieland Homes",
+    "yearBuilt": 2021,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 3,
+    "sqft": 1889,
+    "lotSizeAcres": 0.04,
+    "price": 560000,
+    "hoaMonthly": 225,
+    "annualTaxes": 2825,
+    "estInsuranceAnnual": 3500,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 79,
+    "priceHistory": [
+      {
+        "date": "2026-04-09",
+        "price": 576000
+      },
+      {
+        "date": "2026-05-26",
+        "price": 560000
+      }
+    ],
+    "sellerConcessions": 7000,
+    "listingAgent": "Keller Williams Charleston",
+    "propertyType": "Condo",
+    "condition": {
+      "roofAgeYears": 4,
+      "hvacAgeYears": 2,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Carolina Park Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Cario Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 48,
+    "bikeScore": 52,
+    "transitScore": 25,
+    "commute": {
+      "airportCHS": 27,
+      "downtown": 29,
+      "beach": 17,
+      "costco": 5,
+      "publix": 5,
+      "boeing": 25,
+      "jointBaseCharleston": 28,
+      "hospital": 9,
+      "flightSchool": 27,
+      "parks": 7,
+      "boatRamp": 15,
+      "shopping": 5
+    }
+  },
+  {
+    "id": "hamlin-plantation-botany-bay-dr-2252-16",
+    "mlsId": "CHS2402192",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2252%20Botany%20Bay%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2252%20Botany%20Bay%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2252%20Botany%20Bay%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029466",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.838921,-79.803207"
+    },
+    "photos": [
+      "https://picsum.photos/seed/hamlin-plantation-botany-bay-dr-2252-16-a/960/640",
+      "https://picsum.photos/seed/hamlin-plantation-botany-bay-dr-2252-16-b/960/640",
+      "https://picsum.photos/seed/hamlin-plantation-botany-bay-dr-2252-16-c/960/640",
+      "https://picsum.photos/seed/hamlin-plantation-botany-bay-dr-2252-16-d/960/640"
+    ],
+    "address": "2252 Botany Bay Dr",
+    "lat": 32.838921,
+    "lng": -79.803207,
+    "neighborhood": "Hamlin Plantation",
+    "subdivision": "Hamlin Plantation",
+    "city": "Mount Pleasant",
+    "zip": "29466",
+    "county": "Charleston",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2016,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2322,
+    "lotSizeAcres": 0.23,
+    "price": 590000,
+    "hoaMonthly": 165,
+    "annualTaxes": 3000,
+    "estInsuranceAnnual": 4600,
+    "estFloodInsuranceAnnual": 450,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 88,
+    "priceHistory": [
+      {
+        "date": "2026-03-31",
+        "price": 590000
+      }
+    ],
+    "sellerConcessions": 8000,
+    "listingAgent": "Matt O'Neill Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 6,
+      "hvacAgeYears": 9,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Laurel Hill Primary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Cario Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 36,
+    "bikeScore": 53,
+    "transitScore": 22,
+    "commute": {
+      "airportCHS": 27,
+      "downtown": 27,
+      "beach": 17,
+      "costco": 6,
+      "publix": 7,
+      "boeing": 30,
+      "jointBaseCharleston": 27,
+      "hospital": 13,
+      "flightSchool": 29,
+      "parks": 4,
+      "boatRamp": 13,
+      "shopping": 4
+    }
+  },
+  {
+    "id": "mount-pleasant-fairmont-ave-3296-17",
+    "mlsId": "CHS2402329",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3296%20Fairmont%20Ave%2C%20Mount%20Pleasant%2C%20SC%2029464_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3296%20Fairmont%20Ave%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3296%20Fairmont%20Ave%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.814472,-79.852311"
+    },
+    "photos": [
+      "https://picsum.photos/seed/mount-pleasant-fairmont-ave-3296-17-a/960/640",
+      "https://picsum.photos/seed/mount-pleasant-fairmont-ave-3296-17-b/960/640",
+      "https://picsum.photos/seed/mount-pleasant-fairmont-ave-3296-17-c/960/640",
+      "https://picsum.photos/seed/mount-pleasant-fairmont-ave-3296-17-d/960/640"
+    ],
+    "address": "3296 Fairmont Ave",
+    "lat": 32.814472,
+    "lng": -79.852311,
+    "neighborhood": "Mount Pleasant",
+    "subdivision": "Mount Pleasant",
+    "city": "Mount Pleasant",
+    "zip": "29464",
+    "county": "Charleston",
+    "builder": "John Wieland Homes",
+    "yearBuilt": 2023,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "halfBaths": 1,
+    "garageSpaces": 3,
+    "stories": 2,
+    "sqft": 2895,
+    "lotSizeAcres": 0.15,
+    "price": 854000,
+    "hoaMonthly": 120,
+    "annualTaxes": 4775,
+    "estInsuranceAnnual": 5600,
+    "estFloodInsuranceAnnual": 1250,
+    "floodZone": "AE",
+    "floodHistory": "Within a FEMA Special Flood Hazard Area; verify Elevation Certificate and any prior claims.",
+    "daysOnMarket": 66,
+    "priceHistory": [
+      {
+        "date": "2026-04-22",
+        "price": 881000
+      },
+      {
+        "date": "2026-06-01",
+        "price": 854000
+      }
+    ],
+    "sellerConcessions": 12000,
+    "listingAgent": "Matt O'Neill Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 3,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Belle Hall Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 54,
+    "bikeScore": 51,
+    "transitScore": 29,
+    "commute": {
+      "airportCHS": 23,
+      "downtown": 17,
+      "beach": 10,
+      "costco": 4,
+      "publix": 4,
+      "boeing": 22,
+      "jointBaseCharleston": 25,
+      "hospital": 7,
+      "flightSchool": 22,
+      "parks": 4,
+      "boatRamp": 8,
+      "shopping": 5
+    }
+  },
+  {
+    "id": "mount-pleasant-center-lake-dr-2802-18",
+    "mlsId": "CHS2402466",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2802%20Center%20Lake%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029464_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2802%20Center%20Lake%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2802%20Center%20Lake%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.830551,-79.861515",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-mount-pleasant-center-lake-dr-2802-18"
+    },
+    "photos": [
+      "https://picsum.photos/seed/mount-pleasant-center-lake-dr-2802-18-a/960/640",
+      "https://picsum.photos/seed/mount-pleasant-center-lake-dr-2802-18-b/960/640",
+      "https://picsum.photos/seed/mount-pleasant-center-lake-dr-2802-18-c/960/640",
+      "https://picsum.photos/seed/mount-pleasant-center-lake-dr-2802-18-d/960/640"
+    ],
+    "address": "2802 Center Lake Dr",
+    "lat": 32.830551,
+    "lng": -79.861515,
+    "neighborhood": "Mount Pleasant",
+    "subdivision": "Mount Pleasant",
+    "city": "Mount Pleasant",
+    "zip": "29464",
+    "county": "Charleston",
+    "builder": "Saussy Burbank",
+    "yearBuilt": 2018,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2543,
+    "lotSizeAcres": 0.15,
+    "price": 716000,
+    "hoaMonthly": 195,
+    "annualTaxes": 3225,
+    "estInsuranceAnnual": 4550,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X (shaded)",
+    "floodHistory": "Within the 0.2%-annual (500-yr) zone; no recorded structural flood losses.",
+    "daysOnMarket": 19,
+    "priceHistory": [
+      {
+        "date": "2026-06-08",
+        "price": 716000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "The Boulevard Company",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 6,
+      "hvacAgeYears": 3,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "James B. Edwards Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 53,
+    "bikeScore": 57,
+    "transitScore": 27,
+    "commute": {
+      "airportCHS": 20,
+      "downtown": 18,
+      "beach": 12,
+      "costco": 5,
+      "publix": 4,
+      "boeing": 19,
+      "jointBaseCharleston": 23,
+      "hospital": 5,
+      "flightSchool": 21,
+      "parks": 8,
+      "boatRamp": 6,
+      "shopping": 4
+    }
+  },
+  {
+    "id": "belle-hall-daniel-island-dr-1438-19",
+    "mlsId": "CHS2402603",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1438%20Daniel%20Island%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029464_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1438%20Daniel%20Island%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1438%20Daniel%20Island%20Dr%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.816795,-79.848818",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-belle-hall-daniel-island-dr-1438-19"
+    },
+    "photos": [
+      "https://picsum.photos/seed/belle-hall-daniel-island-dr-1438-19-a/960/640",
+      "https://picsum.photos/seed/belle-hall-daniel-island-dr-1438-19-b/960/640",
+      "https://picsum.photos/seed/belle-hall-daniel-island-dr-1438-19-c/960/640",
+      "https://picsum.photos/seed/belle-hall-daniel-island-dr-1438-19-d/960/640"
+    ],
+    "address": "1438 Daniel Island Dr",
+    "lat": 32.816795,
+    "lng": -79.848818,
+    "neighborhood": "Belle Hall",
+    "subdivision": "Belle Hall",
+    "city": "Mount Pleasant",
+    "zip": "29464",
+    "county": "Charleston",
+    "builder": "John Wieland Homes",
+    "yearBuilt": 2020,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 1806,
+    "lotSizeAcres": 0.08,
+    "price": 642000,
+    "hoaMonthly": 210,
+    "annualTaxes": 3650,
+    "estInsuranceAnnual": 3950,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 4,
+    "priceHistory": [
+      {
+        "date": "2026-06-23",
+        "price": 642000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Keller Williams Charleston",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 4,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Mamie Whitesides Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 51,
+    "bikeScore": 54,
+    "transitScore": 20,
+    "commute": {
+      "airportCHS": 22,
+      "downtown": 16,
+      "beach": 15,
+      "costco": 6,
+      "publix": 5,
+      "boeing": 19,
+      "jointBaseCharleston": 21,
+      "hospital": 10,
+      "flightSchool": 20,
+      "parks": 6,
+      "boatRamp": 8,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "belle-hall-captiva-row-2027-20",
+    "mlsId": "CHS2402740",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2027%20Captiva%20Row%2C%20Mount%20Pleasant%2C%20SC%2029464_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2027%20Captiva%20Row%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2027%20Captiva%20Row%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.828685,-79.834353"
+    },
+    "photos": [
+      "https://picsum.photos/seed/belle-hall-captiva-row-2027-20-a/960/640",
+      "https://picsum.photos/seed/belle-hall-captiva-row-2027-20-b/960/640",
+      "https://picsum.photos/seed/belle-hall-captiva-row-2027-20-c/960/640",
+      "https://picsum.photos/seed/belle-hall-captiva-row-2027-20-d/960/640"
+    ],
+    "address": "2027 Captiva Row",
+    "lat": 32.828685,
+    "lng": -79.834353,
+    "neighborhood": "Belle Hall",
+    "subdivision": "Belle Hall",
+    "city": "Mount Pleasant",
+    "zip": "29464",
+    "county": "Charleston",
+    "builder": "Pulte Homes",
+    "yearBuilt": 2019,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 3,
+    "stories": 1,
+    "sqft": 2141,
+    "lotSizeAcres": 0.1,
+    "price": 687000,
+    "hoaMonthly": 115,
+    "annualTaxes": 3800,
+    "estInsuranceAnnual": 4800,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 35,
+    "priceHistory": [
+      {
+        "date": "2026-05-23",
+        "price": 687000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "The Boulevard Company",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 5,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Mamie Whitesides Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 37,
+    "bikeScore": 49,
+    "transitScore": 18,
+    "commute": {
+      "airportCHS": 22,
+      "downtown": 21,
+      "beach": 12,
+      "costco": 7,
+      "publix": 6,
+      "boeing": 24,
+      "jointBaseCharleston": 26,
+      "hospital": 8,
+      "flightSchool": 20,
+      "parks": 5,
+      "boatRamp": 6,
+      "shopping": 2
+    }
+  },
+  {
+    "id": "i-on-north-shelmore-blvd-4673-21",
+    "mlsId": "CHS2402877",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4673%20North%20Shelmore%20Blvd%20Unit%2023%2C%20Mount%20Pleasant%2C%20SC%2029464_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4673%20North%20Shelmore%20Blvd%20Unit%2023%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4673%20North%20Shelmore%20Blvd%20Unit%2023%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.807315,-79.875168",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-i-on-north-shelmore-blvd-4673-21"
+    },
+    "photos": [
+      "https://picsum.photos/seed/i-on-north-shelmore-blvd-4673-21-a/960/640",
+      "https://picsum.photos/seed/i-on-north-shelmore-blvd-4673-21-b/960/640",
+      "https://picsum.photos/seed/i-on-north-shelmore-blvd-4673-21-c/960/640",
+      "https://picsum.photos/seed/i-on-north-shelmore-blvd-4673-21-d/960/640"
+    ],
+    "address": "4673 North Shelmore Blvd Unit 23",
+    "lat": 32.807315,
+    "lng": -79.875168,
+    "neighborhood": "I'On",
+    "subdivision": "I'On",
+    "city": "Mount Pleasant",
+    "zip": "29464",
+    "county": "Charleston",
+    "builder": "John Wieland Homes",
+    "yearBuilt": 2023,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 3,
+    "sqft": 1722,
+    "lotSizeAcres": 0.09,
+    "price": 560000,
+    "hoaMonthly": 245,
+    "annualTaxes": 2950,
+    "estInsuranceAnnual": 4400,
+    "estFloodInsuranceAnnual": 575,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 16,
+    "priceHistory": [
+      {
+        "date": "2026-06-11",
+        "price": 560000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Dunes Properties",
+    "propertyType": "Townhome",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 3,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "James B. Edwards Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Laing Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Lucy Beckham High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 45,
+    "bikeScore": 52,
+    "transitScore": 17,
+    "commute": {
+      "airportCHS": 20,
+      "downtown": 18,
+      "beach": 11,
+      "costco": 4,
+      "publix": 7,
+      "boeing": 24,
+      "jointBaseCharleston": 23,
+      "hospital": 8,
+      "flightSchool": 23,
+      "parks": 5,
+      "boatRamp": 7,
+      "shopping": 5
+    }
+  },
+  {
+    "id": "i-on-north-shelmore-blvd-1709-22",
+    "mlsId": "CHS2403014",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1709%20North%20Shelmore%20Blvd%2C%20Mount%20Pleasant%2C%20SC%2029464_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1709%20North%20Shelmore%20Blvd%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1709%20North%20Shelmore%20Blvd%2C%20Mount%20Pleasant%2C%20SC%2029464",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.81641,-79.859399"
+    },
+    "photos": [
+      "https://picsum.photos/seed/i-on-north-shelmore-blvd-1709-22-a/960/640",
+      "https://picsum.photos/seed/i-on-north-shelmore-blvd-1709-22-b/960/640",
+      "https://picsum.photos/seed/i-on-north-shelmore-blvd-1709-22-c/960/640",
+      "https://picsum.photos/seed/i-on-north-shelmore-blvd-1709-22-d/960/640"
+    ],
+    "address": "1709 North Shelmore Blvd",
+    "lat": 32.81641,
+    "lng": -79.859399,
+    "neighborhood": "I'On",
+    "subdivision": "I'On",
+    "city": "Mount Pleasant",
+    "zip": "29464",
+    "county": "Charleston",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2023,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 3,
+    "stories": 2,
+    "sqft": 1767,
+    "lotSizeAcres": 0.13,
+    "price": 560000,
+    "hoaMonthly": 140,
+    "annualTaxes": 3100,
+    "estInsuranceAnnual": 4250,
+    "estFloodInsuranceAnnual": 1675,
+    "floodZone": "AE",
+    "floodHistory": "Within a FEMA Special Flood Hazard Area; verify Elevation Certificate and any prior claims.",
+    "daysOnMarket": 43,
+    "priceHistory": [
+      {
+        "date": "2026-05-15",
+        "price": 560000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Keller Williams Charleston",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 0,
+      "hvacAgeYears": 0,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "James B. Edwards Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Moultrie Middle",
+        "rating": 7
+      },
+      "high": {
+        "name": "Wando High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 63,
+    "bikeScore": 56,
+    "transitScore": 19,
+    "commute": {
+      "airportCHS": 22,
+      "downtown": 17,
+      "beach": 9,
+      "costco": 5,
+      "publix": 5,
+      "boeing": 22,
+      "jointBaseCharleston": 25,
+      "hospital": 5,
+      "flightSchool": 24,
+      "parks": 5,
+      "boatRamp": 7,
+      "shopping": 2
+    }
+  },
+  {
+    "id": "carolina-bay-marsh-hen-dr-4646-23",
+    "mlsId": "CHS2403151",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4646%20Marsh%20Hen%20Dr%2C%20Charleston%2C%20SC%2029414_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4646%20Marsh%20Hen%20Dr%2C%20Charleston%2C%20SC%2029414",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4646%20Marsh%20Hen%20Dr%2C%20Charleston%2C%20SC%2029414",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.795708,-80.061923"
+    },
+    "photos": [
+      "https://picsum.photos/seed/carolina-bay-marsh-hen-dr-4646-23-a/960/640",
+      "https://picsum.photos/seed/carolina-bay-marsh-hen-dr-4646-23-b/960/640",
+      "https://picsum.photos/seed/carolina-bay-marsh-hen-dr-4646-23-c/960/640",
+      "https://picsum.photos/seed/carolina-bay-marsh-hen-dr-4646-23-d/960/640"
+    ],
+    "address": "4646 Marsh Hen Dr",
+    "lat": 32.795708,
+    "lng": -80.061923,
+    "neighborhood": "Carolina Bay",
+    "subdivision": "Carolina Bay",
+    "city": "Charleston",
+    "zip": "29414",
+    "county": "Charleston",
+    "builder": "Beazer Homes",
+    "yearBuilt": 2020,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2055,
+    "lotSizeAcres": 0.2,
+    "price": 447000,
+    "hoaMonthly": 110,
+    "annualTaxes": 2100,
+    "estInsuranceAnnual": 2400,
+    "estFloodInsuranceAnnual": 675,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 22,
+    "priceHistory": [
+      {
+        "date": "2026-06-05",
+        "price": 447000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Matt O'Neill Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 6,
+      "hvacAgeYears": 1,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Drayton Hall Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "C.E. Williams Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "West Ashley High",
+        "rating": 5
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 56,
+    "bikeScore": 50,
+    "transitScore": 24,
+    "commute": {
+      "airportCHS": 19,
+      "downtown": 18,
+      "beach": 21,
+      "costco": 20,
+      "publix": 5,
+      "boeing": 26,
+      "jointBaseCharleston": 19,
+      "hospital": 14,
+      "flightSchool": 20,
+      "parks": 10,
+      "boatRamp": 14,
+      "shopping": 9
+    }
+  },
+  {
+    "id": "carolina-bay-battery-bend-dr-1561-24",
+    "mlsId": "CHS2403288",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1561%20Battery%20Bend%20Dr%2C%20Charleston%2C%20SC%2029414_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1561%20Battery%20Bend%20Dr%2C%20Charleston%2C%20SC%2029414",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1561%20Battery%20Bend%20Dr%2C%20Charleston%2C%20SC%2029414",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.791474,-80.059672",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-carolina-bay-battery-bend-dr-1561-24"
+    },
+    "photos": [
+      "https://picsum.photos/seed/carolina-bay-battery-bend-dr-1561-24-a/960/640",
+      "https://picsum.photos/seed/carolina-bay-battery-bend-dr-1561-24-b/960/640",
+      "https://picsum.photos/seed/carolina-bay-battery-bend-dr-1561-24-c/960/640",
+      "https://picsum.photos/seed/carolina-bay-battery-bend-dr-1561-24-d/960/640"
+    ],
+    "address": "1561 Battery Bend Dr",
+    "lat": 32.791474,
+    "lng": -80.059672,
+    "neighborhood": "Carolina Bay",
+    "subdivision": "Carolina Bay",
+    "city": "Charleston",
+    "zip": "29414",
+    "county": "Charleston",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2020,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2102,
+    "lotSizeAcres": 0.15,
+    "price": 469000,
+    "hoaMonthly": 70,
+    "annualTaxes": 2100,
+    "estInsuranceAnnual": 2950,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 24,
+    "priceHistory": [
+      {
+        "date": "2026-06-03",
+        "price": 469000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Dunes Properties",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 5,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Oakland Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "West Ashley Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "West Ashley High",
+        "rating": 5
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 50,
+    "bikeScore": 45,
+    "transitScore": 33,
+    "commute": {
+      "airportCHS": 21,
+      "downtown": 15,
+      "beach": 22,
+      "costco": 21,
+      "publix": 3,
+      "boeing": 24,
+      "jointBaseCharleston": 23,
+      "hospital": 14,
+      "flightSchool": 23,
+      "parks": 7,
+      "boatRamp": 11,
+      "shopping": 9
+    }
+  },
+  {
+    "id": "carolina-bay-ashley-gardens-blvd-2988-25",
+    "mlsId": "CHS2403425",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2988%20Ashley%20Gardens%20Blvd%2C%20Charleston%2C%20SC%2029414_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2988%20Ashley%20Gardens%20Blvd%2C%20Charleston%2C%20SC%2029414",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2988%20Ashley%20Gardens%20Blvd%2C%20Charleston%2C%20SC%2029414",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.791422,-80.054737"
+    },
+    "photos": [
+      "https://picsum.photos/seed/carolina-bay-ashley-gardens-blvd-2988-25-a/960/640",
+      "https://picsum.photos/seed/carolina-bay-ashley-gardens-blvd-2988-25-b/960/640",
+      "https://picsum.photos/seed/carolina-bay-ashley-gardens-blvd-2988-25-c/960/640",
+      "https://picsum.photos/seed/carolina-bay-ashley-gardens-blvd-2988-25-d/960/640"
+    ],
+    "address": "2988 Ashley Gardens Blvd",
+    "lat": 32.791422,
+    "lng": -80.054737,
+    "neighborhood": "Carolina Bay",
+    "subdivision": "Carolina Bay",
+    "city": "Charleston",
+    "zip": "29414",
+    "county": "Charleston",
+    "builder": "Pulte Homes",
+    "yearBuilt": 2022,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 3,
+    "stories": 2,
+    "sqft": 2875,
+    "lotSizeAcres": 0.17,
+    "price": 600000,
+    "hoaMonthly": 60,
+    "annualTaxes": 2950,
+    "estInsuranceAnnual": 3850,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 20,
+    "priceHistory": [
+      {
+        "date": "2026-06-07",
+        "price": 600000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Carolina One Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 3,
+      "hvacAgeYears": 2,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Drayton Hall Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "C.E. Williams Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "West Ashley High",
+        "rating": 5
+      }
+    },
+    "crimeRating": 6,
+    "walkScore": 53,
+    "bikeScore": 42,
+    "transitScore": 32,
+    "commute": {
+      "airportCHS": 21,
+      "downtown": 19,
+      "beach": 22,
+      "costco": 20,
+      "publix": 3,
+      "boeing": 23,
+      "jointBaseCharleston": 21,
+      "hospital": 14,
+      "flightSchool": 24,
+      "parks": 8,
+      "boatRamp": 15,
+      "shopping": 4
+    }
+  },
+  {
+    "id": "boltons-landing-marsh-creek-dr-634-26",
+    "mlsId": "CHS2403562",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/634%20Marsh%20Creek%20Dr%2C%20Charleston%2C%20SC%2029414_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/634%20Marsh%20Creek%20Dr%2C%20Charleston%2C%20SC%2029414",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=634%20Marsh%20Creek%20Dr%2C%20Charleston%2C%20SC%2029414",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.807421,-80.050471"
+    },
+    "photos": [
+      "https://picsum.photos/seed/boltons-landing-marsh-creek-dr-634-26-a/960/640",
+      "https://picsum.photos/seed/boltons-landing-marsh-creek-dr-634-26-b/960/640",
+      "https://picsum.photos/seed/boltons-landing-marsh-creek-dr-634-26-c/960/640",
+      "https://picsum.photos/seed/boltons-landing-marsh-creek-dr-634-26-d/960/640"
+    ],
+    "address": "634 Marsh Creek Dr",
+    "lat": 32.807421,
+    "lng": -80.050471,
+    "neighborhood": "Boltons Landing",
+    "subdivision": "Boltons Landing",
+    "city": "Charleston",
+    "zip": "29414",
+    "county": "Charleston",
+    "builder": "Beazer Homes",
+    "yearBuilt": 2019,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 1,
+    "sqft": 2545,
+    "lotSizeAcres": 0.17,
+    "price": 532000,
+    "hoaMonthly": 90,
+    "annualTaxes": 2500,
+    "estInsuranceAnnual": 3100,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 40,
+    "priceHistory": [
+      {
+        "date": "2026-05-18",
+        "price": 552000
+      },
+      {
+        "date": "2026-06-11",
+        "price": 532000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Coldwell Banker Realty",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 5,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Oakland Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "C.E. Williams Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "West Ashley High",
+        "rating": 5
+      }
+    },
+    "crimeRating": 6,
+    "walkScore": 42,
+    "bikeScore": 56,
+    "transitScore": 24,
+    "commute": {
+      "airportCHS": 23,
+      "downtown": 17,
+      "beach": 27,
+      "costco": 21,
+      "publix": 5,
+      "boeing": 25,
+      "jointBaseCharleston": 23,
+      "hospital": 12,
+      "flightSchool": 24,
+      "parks": 9,
+      "boatRamp": 15,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "boltons-landing-bolton-hall-rd-3891-27",
+    "mlsId": "CHS2403699",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3891%20Bolton%20Hall%20Rd%2C%20Charleston%2C%20SC%2029414_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3891%20Bolton%20Hall%20Rd%2C%20Charleston%2C%20SC%2029414",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3891%20Bolton%20Hall%20Rd%2C%20Charleston%2C%20SC%2029414",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.804428,-80.056237"
+    },
+    "photos": [
+      "https://picsum.photos/seed/boltons-landing-bolton-hall-rd-3891-27-a/960/640",
+      "https://picsum.photos/seed/boltons-landing-bolton-hall-rd-3891-27-b/960/640",
+      "https://picsum.photos/seed/boltons-landing-bolton-hall-rd-3891-27-c/960/640",
+      "https://picsum.photos/seed/boltons-landing-bolton-hall-rd-3891-27-d/960/640"
+    ],
+    "address": "3891 Bolton Hall Rd",
+    "lat": 32.804428,
+    "lng": -80.056237,
+    "neighborhood": "Boltons Landing",
+    "subdivision": "Boltons Landing",
+    "city": "Charleston",
+    "zip": "29414",
+    "county": "Charleston",
+    "builder": "Pulte Homes",
+    "yearBuilt": 2018,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 1824,
+    "lotSizeAcres": 0.14,
+    "price": 437000,
+    "hoaMonthly": 100,
+    "annualTaxes": 1850,
+    "estInsuranceAnnual": 2550,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 20,
+    "priceHistory": [
+      {
+        "date": "2026-06-07",
+        "price": 437000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "The Boulevard Company",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 6,
+      "hvacAgeYears": 8,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Oakland Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "West Ashley Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "West Ashley High",
+        "rating": 5
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 42,
+    "bikeScore": 56,
+    "transitScore": 25,
+    "commute": {
+      "airportCHS": 22,
+      "downtown": 13,
+      "beach": 25,
+      "costco": 23,
+      "publix": 7,
+      "boeing": 21,
+      "jointBaseCharleston": 24,
+      "hospital": 13,
+      "flightSchool": 20,
+      "parks": 6,
+      "boatRamp": 10,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "west-ashley-coburg-rd-1601-28",
+    "mlsId": "CHS2403836",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1601%20Coburg%20Rd%2C%20Charleston%2C%20SC%2029414_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1601%20Coburg%20Rd%2C%20Charleston%2C%20SC%2029414",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1601%20Coburg%20Rd%2C%20Charleston%2C%20SC%2029414",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.805184,-80.006927"
+    },
+    "photos": [
+      "https://picsum.photos/seed/west-ashley-coburg-rd-1601-28-a/960/640",
+      "https://picsum.photos/seed/west-ashley-coburg-rd-1601-28-b/960/640",
+      "https://picsum.photos/seed/west-ashley-coburg-rd-1601-28-c/960/640",
+      "https://picsum.photos/seed/west-ashley-coburg-rd-1601-28-d/960/640"
+    ],
+    "address": "1601 Coburg Rd",
+    "lat": 32.805184,
+    "lng": -80.006927,
+    "neighborhood": "West Ashley",
+    "subdivision": "West Ashley",
+    "city": "Charleston",
+    "zip": "29414",
+    "county": "Charleston",
+    "builder": "Pulte Homes",
+    "yearBuilt": 2019,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2380,
+    "lotSizeAcres": 0.19,
+    "price": 536000,
+    "hoaMonthly": 60,
+    "annualTaxes": 2300,
+    "estInsuranceAnnual": 2950,
+    "estFloodInsuranceAnnual": 475,
+    "floodZone": "X (shaded)",
+    "floodHistory": "Within the 0.2%-annual (500-yr) zone; no recorded structural flood losses.",
+    "daysOnMarket": 47,
+    "priceHistory": [
+      {
+        "date": "2026-05-11",
+        "price": 553000
+      },
+      {
+        "date": "2026-06-08",
+        "price": 536000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "The Boulevard Company",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 3,
+      "hvacAgeYears": 1,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Springfield Elementary",
+        "rating": 5
+      },
+      "middle": {
+        "name": "West Ashley Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "West Ashley High",
+        "rating": 5
+      }
+    },
+    "crimeRating": 6,
+    "walkScore": 50,
+    "bikeScore": 48,
+    "transitScore": 32,
+    "commute": {
+      "airportCHS": 24,
+      "downtown": 17,
+      "beach": 24,
+      "costco": 24,
+      "publix": 9,
+      "boeing": 22,
+      "jointBaseCharleston": 20,
+      "hospital": 17,
+      "flightSchool": 24,
+      "parks": 7,
+      "boatRamp": 10,
+      "shopping": 9
+    }
+  },
+  {
+    "id": "west-ashley-wappoo-hall-rd-4084-29",
+    "mlsId": "CHS2403973",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4084%20Wappoo%20Hall%20Rd%20Unit%205%2C%20Charleston%2C%20SC%2029414_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4084%20Wappoo%20Hall%20Rd%20Unit%205%2C%20Charleston%2C%20SC%2029414",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4084%20Wappoo%20Hall%20Rd%20Unit%205%2C%20Charleston%2C%20SC%2029414",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.806054,-80.003337",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-west-ashley-wappoo-hall-rd-4084-29"
+    },
+    "photos": [
+      "https://picsum.photos/seed/west-ashley-wappoo-hall-rd-4084-29-a/960/640",
+      "https://picsum.photos/seed/west-ashley-wappoo-hall-rd-4084-29-b/960/640",
+      "https://picsum.photos/seed/west-ashley-wappoo-hall-rd-4084-29-c/960/640",
+      "https://picsum.photos/seed/west-ashley-wappoo-hall-rd-4084-29-d/960/640"
+    ],
+    "address": "4084 Wappoo Hall Rd Unit 5",
+    "lat": 32.806054,
+    "lng": -80.003337,
+    "neighborhood": "West Ashley",
+    "subdivision": "West Ashley",
+    "city": "Charleston",
+    "zip": "29414",
+    "county": "Charleston",
+    "builder": "Crescent Homes",
+    "yearBuilt": 2023,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 1,
+    "stories": 3,
+    "sqft": 1861,
+    "lotSizeAcres": 0.04,
+    "price": 452000,
+    "hoaMonthly": 315,
+    "annualTaxes": 2150,
+    "estInsuranceAnnual": 2800,
+    "estFloodInsuranceAnnual": 525,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 59,
+    "priceHistory": [
+      {
+        "date": "2026-04-29",
+        "price": 452000
+      }
+    ],
+    "sellerConcessions": 4000,
+    "listingAgent": "Coldwell Banker Realty",
+    "propertyType": "Townhome",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 2,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Oakland Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "West Ashley Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "West Ashley High",
+        "rating": 5
+      }
+    },
+    "crimeRating": 6,
+    "walkScore": 33,
+    "bikeScore": 56,
+    "transitScore": 21,
+    "commute": {
+      "airportCHS": 23,
+      "downtown": 13,
+      "beach": 25,
+      "costco": 22,
+      "publix": 3,
+      "boeing": 21,
+      "jointBaseCharleston": 23,
+      "hospital": 16,
+      "flightSchool": 20,
+      "parks": 10,
+      "boatRamp": 10,
+      "shopping": 5
+    }
+  },
+  {
+    "id": "grand-oaks-plantation-ainsdale-dr-2388-30",
+    "mlsId": "CHS2404110",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2388%20Ainsdale%20Dr%2C%20Charleston%2C%20SC%2029414_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2388%20Ainsdale%20Dr%2C%20Charleston%2C%20SC%2029414",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2388%20Ainsdale%20Dr%2C%20Charleston%2C%20SC%2029414",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.796617,-80.093886",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-grand-oaks-plantation-ainsdale-dr-2388-30"
+    },
+    "photos": [
+      "https://picsum.photos/seed/grand-oaks-plantation-ainsdale-dr-2388-30-a/960/640",
+      "https://picsum.photos/seed/grand-oaks-plantation-ainsdale-dr-2388-30-b/960/640",
+      "https://picsum.photos/seed/grand-oaks-plantation-ainsdale-dr-2388-30-c/960/640",
+      "https://picsum.photos/seed/grand-oaks-plantation-ainsdale-dr-2388-30-d/960/640"
+    ],
+    "address": "2388 Ainsdale Dr",
+    "lat": 32.796617,
+    "lng": -80.093886,
+    "neighborhood": "Grand Oaks Plantation",
+    "subdivision": "Grand Oaks Plantation",
+    "city": "Charleston",
+    "zip": "29414",
+    "county": "Charleston",
+    "builder": "Pulte Homes",
+    "yearBuilt": 2021,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2795,
+    "lotSizeAcres": 0.17,
+    "price": 571000,
+    "hoaMonthly": 70,
+    "annualTaxes": 2975,
+    "estInsuranceAnnual": 3350,
+    "estFloodInsuranceAnnual": 625,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 85,
+    "priceHistory": [
+      {
+        "date": "2026-04-03",
+        "price": 571000
+      }
+    ],
+    "sellerConcessions": 4500,
+    "listingAgent": "Brand Name Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 4,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Oakland Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "West Ashley Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "West Ashley High",
+        "rating": 5
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 32,
+    "bikeScore": 48,
+    "transitScore": 23,
+    "commute": {
+      "airportCHS": 23,
+      "downtown": 17,
+      "beach": 23,
+      "costco": 24,
+      "publix": 4,
+      "boeing": 22,
+      "jointBaseCharleston": 24,
+      "hospital": 12,
+      "flightSchool": 19,
+      "parks": 8,
+      "boatRamp": 14,
+      "shopping": 4
+    }
+  },
+  {
+    "id": "grand-oaks-plantation-grand-oaks-blvd-2363-31",
+    "mlsId": "CHS2404247",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2363%20Grand%20Oaks%20Blvd%2C%20Charleston%2C%20SC%2029414_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2363%20Grand%20Oaks%20Blvd%2C%20Charleston%2C%20SC%2029414",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2363%20Grand%20Oaks%20Blvd%2C%20Charleston%2C%20SC%2029414",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.81539,-80.091495",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-grand-oaks-plantation-grand-oaks-blvd-2363-31"
+    },
+    "photos": [
+      "https://picsum.photos/seed/grand-oaks-plantation-grand-oaks-blvd-2363-31-a/960/640",
+      "https://picsum.photos/seed/grand-oaks-plantation-grand-oaks-blvd-2363-31-b/960/640",
+      "https://picsum.photos/seed/grand-oaks-plantation-grand-oaks-blvd-2363-31-c/960/640",
+      "https://picsum.photos/seed/grand-oaks-plantation-grand-oaks-blvd-2363-31-d/960/640"
+    ],
+    "address": "2363 Grand Oaks Blvd",
+    "lat": 32.81539,
+    "lng": -80.091495,
+    "neighborhood": "Grand Oaks Plantation",
+    "subdivision": "Grand Oaks Plantation",
+    "city": "Charleston",
+    "zip": "29414",
+    "county": "Charleston",
+    "builder": "Crescent Homes",
+    "yearBuilt": 2022,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2238,
+    "lotSizeAcres": 0.21,
+    "price": 475000,
+    "hoaMonthly": 70,
+    "annualTaxes": 2350,
+    "estInsuranceAnnual": 2500,
+    "estFloodInsuranceAnnual": 475,
+    "floodZone": "X (shaded)",
+    "floodHistory": "Within the 0.2%-annual (500-yr) zone; no recorded structural flood losses.",
+    "daysOnMarket": 13,
+    "priceHistory": [
+      {
+        "date": "2026-06-14",
+        "price": 475000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Coldwell Banker Realty",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 2,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "Drayton Hall Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "C.E. Williams Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "West Ashley High",
+        "rating": 5
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 50,
+    "bikeScore": 57,
+    "transitScore": 35,
+    "commute": {
+      "airportCHS": 19,
+      "downtown": 17,
+      "beach": 23,
+      "costco": 22,
+      "publix": 9,
+      "boeing": 22,
+      "jointBaseCharleston": 22,
+      "hospital": 14,
+      "flightSchool": 22,
+      "parks": 7,
+      "boatRamp": 12,
+      "shopping": 5
+    }
+  },
+  {
+    "id": "hanahan-berkeley-hills-blvd-3649-32",
+    "mlsId": "CHS2404384",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3649%20Berkeley%20Hills%20Blvd%2C%20Hanahan%2C%20SC%2029410_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3649%20Berkeley%20Hills%20Blvd%2C%20Hanahan%2C%20SC%2029410",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3649%20Berkeley%20Hills%20Blvd%2C%20Hanahan%2C%20SC%2029410",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.905831,-80.035328"
+    },
+    "photos": [
+      "https://picsum.photos/seed/hanahan-berkeley-hills-blvd-3649-32-a/960/640",
+      "https://picsum.photos/seed/hanahan-berkeley-hills-blvd-3649-32-b/960/640",
+      "https://picsum.photos/seed/hanahan-berkeley-hills-blvd-3649-32-c/960/640",
+      "https://picsum.photos/seed/hanahan-berkeley-hills-blvd-3649-32-d/960/640"
+    ],
+    "address": "3649 Berkeley Hills Blvd",
+    "lat": 32.905831,
+    "lng": -80.035328,
+    "neighborhood": "Hanahan",
+    "subdivision": "Hanahan",
+    "city": "Hanahan",
+    "zip": "29410",
+    "county": "Berkeley",
+    "builder": "Eastwood Homes",
+    "yearBuilt": 2022,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "halfBaths": 0,
+    "garageSpaces": 3,
+    "stories": 2,
+    "sqft": 2566,
+    "lotSizeAcres": 0.17,
+    "price": 557000,
+    "hoaMonthly": 35,
+    "annualTaxes": 3050,
+    "estInsuranceAnnual": 3250,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 74,
+    "priceHistory": [
+      {
+        "date": "2026-04-14",
+        "price": 574000
+      },
+      {
+        "date": "2026-05-28",
+        "price": 557000
+      }
+    ],
+    "sellerConcessions": 3500,
+    "listingAgent": "EXP Realty LLC",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 3,
+      "hvacAgeYears": 1,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Bowens Corner Elementary",
+        "rating": 7
+      },
+      "middle": {
+        "name": "Hanahan Middle",
+        "rating": 6
+      },
+      "high": {
+        "name": "Hanahan High",
+        "rating": 7
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 26,
+    "bikeScore": 46,
+    "transitScore": 22,
+    "commute": {
+      "airportCHS": 12,
+      "downtown": 16,
+      "beach": 32,
+      "costco": 21,
+      "publix": 9,
+      "boeing": 9,
+      "jointBaseCharleston": 11,
+      "hospital": 18,
+      "flightSchool": 17,
+      "parks": 10,
+      "boatRamp": 13,
+      "shopping": 6
+    }
+  },
+  {
+    "id": "hanahan-eagle-landing-blvd-4407-33",
+    "mlsId": "CHS2404521",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4407%20Eagle%20Landing%20Blvd%2C%20Hanahan%2C%20SC%2029410_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4407%20Eagle%20Landing%20Blvd%2C%20Hanahan%2C%20SC%2029410",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4407%20Eagle%20Landing%20Blvd%2C%20Hanahan%2C%20SC%2029410",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.905034,-80.025888"
+    },
+    "photos": [
+      "https://picsum.photos/seed/hanahan-eagle-landing-blvd-4407-33-a/960/640",
+      "https://picsum.photos/seed/hanahan-eagle-landing-blvd-4407-33-b/960/640",
+      "https://picsum.photos/seed/hanahan-eagle-landing-blvd-4407-33-c/960/640",
+      "https://picsum.photos/seed/hanahan-eagle-landing-blvd-4407-33-d/960/640"
+    ],
+    "address": "4407 Eagle Landing Blvd",
+    "lat": 32.905034,
+    "lng": -80.025888,
+    "neighborhood": "Hanahan",
+    "subdivision": "Hanahan",
+    "city": "Hanahan",
+    "zip": "29410",
+    "county": "Berkeley",
+    "builder": "D.R. Horton",
+    "yearBuilt": 2020,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 3,
+    "sqft": 1858,
+    "lotSizeAcres": 0.08,
+    "price": 410000,
+    "hoaMonthly": 200,
+    "annualTaxes": 1925,
+    "estInsuranceAnnual": 2100,
+    "estFloodInsuranceAnnual": 725,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 65,
+    "priceHistory": [
+      {
+        "date": "2026-04-23",
+        "price": 410000
+      }
+    ],
+    "sellerConcessions": 5500,
+    "listingAgent": "Coldwell Banker Realty",
+    "propertyType": "Townhome",
+    "condition": {
+      "roofAgeYears": 5,
+      "hvacAgeYears": 5,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Hanahan Elementary",
+        "rating": 7
+      },
+      "middle": {
+        "name": "Hanahan Middle",
+        "rating": 6
+      },
+      "high": {
+        "name": "Hanahan High",
+        "rating": 7
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 39,
+    "bikeScore": 45,
+    "transitScore": 17,
+    "commute": {
+      "airportCHS": 17,
+      "downtown": 18,
+      "beach": 32,
+      "costco": 20,
+      "publix": 8,
+      "boeing": 13,
+      "jointBaseCharleston": 13,
+      "hospital": 18,
+      "flightSchool": 19,
+      "parks": 6,
+      "boatRamp": 13,
+      "shopping": 11
+    }
+  },
+  {
+    "id": "tanner-plantation-tanner-ford-blvd-2431-34",
+    "mlsId": "CHS2404658",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2431%20Tanner%20Ford%20Blvd%20Unit%2010%2C%20Hanahan%2C%20SC%2029410_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2431%20Tanner%20Ford%20Blvd%20Unit%2010%2C%20Hanahan%2C%20SC%2029410",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2431%20Tanner%20Ford%20Blvd%20Unit%2010%2C%20Hanahan%2C%20SC%2029410",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.941187,-80.011552"
+    },
+    "photos": [
+      "https://picsum.photos/seed/tanner-plantation-tanner-ford-blvd-2431-34-a/960/640",
+      "https://picsum.photos/seed/tanner-plantation-tanner-ford-blvd-2431-34-b/960/640",
+      "https://picsum.photos/seed/tanner-plantation-tanner-ford-blvd-2431-34-c/960/640",
+      "https://picsum.photos/seed/tanner-plantation-tanner-ford-blvd-2431-34-d/960/640"
+    ],
+    "address": "2431 Tanner Ford Blvd Unit 10",
+    "lat": 32.941187,
+    "lng": -80.011552,
+    "neighborhood": "Tanner Plantation",
+    "subdivision": "Tanner Plantation",
+    "city": "Hanahan",
+    "zip": "29410",
+    "county": "Berkeley",
+    "builder": "Lennar",
+    "yearBuilt": 2018,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 3,
+    "sqft": 2011,
+    "lotSizeAcres": 0.06,
+    "price": 443000,
+    "hoaMonthly": 245,
+    "annualTaxes": 1950,
+    "estInsuranceAnnual": 2800,
+    "estFloodInsuranceAnnual": 550,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 7,
+    "priceHistory": [
+      {
+        "date": "2026-06-20",
+        "price": 443000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Matt O'Neill Real Estate",
+    "propertyType": "Townhome",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 7,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Bowens Corner Elementary",
+        "rating": 7
+      },
+      "middle": {
+        "name": "Hanahan Middle",
+        "rating": 6
+      },
+      "high": {
+        "name": "Hanahan High",
+        "rating": 7
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 36,
+    "bikeScore": 39,
+    "transitScore": 18,
+    "commute": {
+      "airportCHS": 12,
+      "downtown": 21,
+      "beach": 28,
+      "costco": 24,
+      "publix": 5,
+      "boeing": 10,
+      "jointBaseCharleston": 13,
+      "hospital": 13,
+      "flightSchool": 13,
+      "parks": 9,
+      "boatRamp": 15,
+      "shopping": 8
+    }
+  },
+  {
+    "id": "tanner-plantation-brimsley-way-1035-35",
+    "mlsId": "CHS2404795",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1035%20Brimsley%20Way%2C%20Hanahan%2C%20SC%2029410_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1035%20Brimsley%20Way%2C%20Hanahan%2C%20SC%2029410",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1035%20Brimsley%20Way%2C%20Hanahan%2C%20SC%2029410",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.922468,-80.025352",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-tanner-plantation-brimsley-way-1035-35"
+    },
+    "photos": [
+      "https://picsum.photos/seed/tanner-plantation-brimsley-way-1035-35-a/960/640",
+      "https://picsum.photos/seed/tanner-plantation-brimsley-way-1035-35-b/960/640",
+      "https://picsum.photos/seed/tanner-plantation-brimsley-way-1035-35-c/960/640",
+      "https://picsum.photos/seed/tanner-plantation-brimsley-way-1035-35-d/960/640"
+    ],
+    "address": "1035 Brimsley Way",
+    "lat": 32.922468,
+    "lng": -80.025352,
+    "neighborhood": "Tanner Plantation",
+    "subdivision": "Tanner Plantation",
+    "city": "Hanahan",
+    "zip": "29410",
+    "county": "Berkeley",
+    "builder": "Mungo Homes",
+    "yearBuilt": 2022,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 1992,
+    "lotSizeAcres": 0.07,
+    "price": 471000,
+    "hoaMonthly": 265,
+    "annualTaxes": 2350,
+    "estInsuranceAnnual": 2600,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 79,
+    "priceHistory": [
+      {
+        "date": "2026-04-09",
+        "price": 494000
+      },
+      {
+        "date": "2026-05-26",
+        "price": 471000
+      }
+    ],
+    "sellerConcessions": 6000,
+    "listingAgent": "Matt O'Neill Real Estate",
+    "propertyType": "Townhome",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 2,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Bowens Corner Elementary",
+        "rating": 7
+      },
+      "middle": {
+        "name": "Hanahan Middle",
+        "rating": 6
+      },
+      "high": {
+        "name": "Hanahan High",
+        "rating": 7
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 27,
+    "bikeScore": 38,
+    "transitScore": 24,
+    "commute": {
+      "airportCHS": 14,
+      "downtown": 19,
+      "beach": 30,
+      "costco": 24,
+      "publix": 9,
+      "boeing": 10,
+      "jointBaseCharleston": 9,
+      "hospital": 16,
+      "flightSchool": 14,
+      "parks": 5,
+      "boatRamp": 15,
+      "shopping": 6
+    }
+  },
+  {
+    "id": "park-circle-o-hear-ave-831-36",
+    "mlsId": "CHS2404932",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/831%20O'Hear%20Ave%2C%20North%20Charleston%2C%20SC%2029405_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/831%20O'Hear%20Ave%2C%20North%20Charleston%2C%20SC%2029405",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=831%20O'Hear%20Ave%2C%20North%20Charleston%2C%20SC%2029405",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.879719,-80.00956"
+    },
+    "photos": [
+      "https://picsum.photos/seed/park-circle-o-hear-ave-831-36-a/960/640",
+      "https://picsum.photos/seed/park-circle-o-hear-ave-831-36-b/960/640",
+      "https://picsum.photos/seed/park-circle-o-hear-ave-831-36-c/960/640",
+      "https://picsum.photos/seed/park-circle-o-hear-ave-831-36-d/960/640"
+    ],
+    "address": "831 O'Hear Ave",
+    "lat": 32.879719,
+    "lng": -80.00956,
+    "neighborhood": "Park Circle",
+    "subdivision": "Park Circle",
+    "city": "North Charleston",
+    "zip": "29405",
+    "county": "Charleston",
+    "builder": "Stanley Martin Homes",
+    "yearBuilt": 2022,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 3,
+    "stories": 1,
+    "sqft": 2245,
+    "lotSizeAcres": 0.11,
+    "price": 575000,
+    "hoaMonthly": 55,
+    "annualTaxes": 3000,
+    "estInsuranceAnnual": 3900,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 65,
+    "priceHistory": [
+      {
+        "date": "2026-04-23",
+        "price": 575000
+      }
+    ],
+    "sellerConcessions": 4500,
+    "listingAgent": "Brand Name Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 4,
+      "hvacAgeYears": 4,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "North Charleston Elementary",
+        "rating": 3
+      },
+      "middle": {
+        "name": "Morningside Middle",
+        "rating": 3
+      },
+      "high": {
+        "name": "Military Magnet Academy",
+        "rating": 4
+      }
+    },
+    "crimeRating": 6,
+    "walkScore": 64,
+    "bikeScore": 57,
+    "transitScore": 37,
+    "commute": {
+      "airportCHS": 14,
+      "downtown": 15,
+      "beach": 29,
+      "costco": 25,
+      "publix": 8,
+      "boeing": 9,
+      "jointBaseCharleston": 10,
+      "hospital": 14,
+      "flightSchool": 13,
+      "parks": 8,
+      "boatRamp": 19,
+      "shopping": 6
+    }
+  },
+  {
+    "id": "park-circle-mixson-ave-4109-37",
+    "mlsId": "CHS2405069",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4109%20Mixson%20Ave%2C%20North%20Charleston%2C%20SC%2029405_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4109%20Mixson%20Ave%2C%20North%20Charleston%2C%20SC%2029405",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4109%20Mixson%20Ave%2C%20North%20Charleston%2C%20SC%2029405",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.868427,-80.008822"
+    },
+    "photos": [
+      "https://picsum.photos/seed/park-circle-mixson-ave-4109-37-a/960/640",
+      "https://picsum.photos/seed/park-circle-mixson-ave-4109-37-b/960/640",
+      "https://picsum.photos/seed/park-circle-mixson-ave-4109-37-c/960/640",
+      "https://picsum.photos/seed/park-circle-mixson-ave-4109-37-d/960/640"
+    ],
+    "address": "4109 Mixson Ave",
+    "lat": 32.868427,
+    "lng": -80.008822,
+    "neighborhood": "Park Circle",
+    "subdivision": "Park Circle",
+    "city": "North Charleston",
+    "zip": "29405",
+    "county": "Charleston",
+    "builder": "Homes by Dickerson",
+    "yearBuilt": 2022,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 1,
+    "sqft": 2458,
+    "lotSizeAcres": 0.07,
+    "price": 620000,
+    "hoaMonthly": 25,
+    "annualTaxes": 3325,
+    "estInsuranceAnnual": 3250,
+    "estFloodInsuranceAnnual": 2175,
+    "floodZone": "AE",
+    "floodHistory": "Within a FEMA Special Flood Hazard Area; verify Elevation Certificate and any prior claims.",
+    "daysOnMarket": 89,
+    "priceHistory": [
+      {
+        "date": "2026-03-30",
+        "price": 655000
+      },
+      {
+        "date": "2026-05-22",
+        "price": 620000
+      }
+    ],
+    "sellerConcessions": 8000,
+    "listingAgent": "Keller Williams Charleston",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 0,
+      "hvacAgeYears": 3,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "North Charleston Elementary",
+        "rating": 3
+      },
+      "middle": {
+        "name": "Morningside Middle",
+        "rating": 3
+      },
+      "high": {
+        "name": "Military Magnet Academy",
+        "rating": 4
+      }
+    },
+    "crimeRating": 6,
+    "walkScore": 79,
+    "bikeScore": 56,
+    "transitScore": 33,
+    "commute": {
+      "airportCHS": 13,
+      "downtown": 14,
+      "beach": 29,
+      "costco": 27,
+      "publix": 10,
+      "boeing": 7,
+      "jointBaseCharleston": 7,
+      "hospital": 15,
+      "flightSchool": 12,
+      "parks": 5,
+      "boatRamp": 14,
+      "shopping": 10
+    }
+  },
+  {
+    "id": "park-circle-o-hear-ave-3022-38",
+    "mlsId": "CHS2405206",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3022%20O'Hear%20Ave%2C%20North%20Charleston%2C%20SC%2029405_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3022%20O'Hear%20Ave%2C%20North%20Charleston%2C%20SC%2029405",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3022%20O'Hear%20Ave%2C%20North%20Charleston%2C%20SC%2029405",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.880806,-80.006797"
+    },
+    "photos": [
+      "https://picsum.photos/seed/park-circle-o-hear-ave-3022-38-a/960/640",
+      "https://picsum.photos/seed/park-circle-o-hear-ave-3022-38-b/960/640",
+      "https://picsum.photos/seed/park-circle-o-hear-ave-3022-38-c/960/640",
+      "https://picsum.photos/seed/park-circle-o-hear-ave-3022-38-d/960/640"
+    ],
+    "address": "3022 O'Hear Ave",
+    "lat": 32.880806,
+    "lng": -80.006797,
+    "neighborhood": "Park Circle",
+    "subdivision": "Park Circle",
+    "city": "North Charleston",
+    "zip": "29405",
+    "county": "Charleston",
+    "builder": "Saussy Burbank",
+    "yearBuilt": 2024,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 3,
+    "stories": 2,
+    "sqft": 1884,
+    "lotSizeAcres": 0.1,
+    "price": 512000,
+    "hoaMonthly": 10,
+    "annualTaxes": 2250,
+    "estInsuranceAnnual": 3150,
+    "estFloodInsuranceAnnual": 525,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 49,
+    "priceHistory": [
+      {
+        "date": "2026-05-09",
+        "price": 542000
+      },
+      {
+        "date": "2026-06-07",
+        "price": 512000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Keller Williams Charleston",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 1,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Charleston County School District",
+      "elementary": {
+        "name": "North Charleston Elementary",
+        "rating": 3
+      },
+      "middle": {
+        "name": "Morningside Middle",
+        "rating": 3
+      },
+      "high": {
+        "name": "North Charleston High",
+        "rating": 3
+      }
+    },
+    "crimeRating": 6,
+    "walkScore": 81,
+    "bikeScore": 63,
+    "transitScore": 31,
+    "commute": {
+      "airportCHS": 10,
+      "downtown": 13,
+      "beach": 29,
+      "costco": 26,
+      "publix": 10,
+      "boeing": 8,
+      "jointBaseCharleston": 8,
+      "hospital": 15,
+      "flightSchool": 16,
+      "parks": 6,
+      "boatRamp": 15,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "daniel-island-pier-view-st-2951-39",
+    "mlsId": "CHS2405343",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2951%20Pier%20View%20St%2C%20Charleston%2C%20SC%2029492_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2951%20Pier%20View%20St%2C%20Charleston%2C%20SC%2029492",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2951%20Pier%20View%20St%2C%20Charleston%2C%20SC%2029492",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.863598,-79.910884",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-daniel-island-pier-view-st-2951-39"
+    },
+    "photos": [
+      "https://picsum.photos/seed/daniel-island-pier-view-st-2951-39-a/960/640",
+      "https://picsum.photos/seed/daniel-island-pier-view-st-2951-39-b/960/640",
+      "https://picsum.photos/seed/daniel-island-pier-view-st-2951-39-c/960/640",
+      "https://picsum.photos/seed/daniel-island-pier-view-st-2951-39-d/960/640"
+    ],
+    "address": "2951 Pier View St",
+    "lat": 32.863598,
+    "lng": -79.910884,
+    "neighborhood": "Daniel Island",
+    "subdivision": "Daniel Island",
+    "city": "Charleston",
+    "zip": "29492",
+    "county": "Berkeley",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2019,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 1,
+    "sqft": 2562,
+    "lotSizeAcres": 0.25,
+    "price": 1030000,
+    "hoaMonthly": 250,
+    "annualTaxes": 5325,
+    "estInsuranceAnnual": 5500,
+    "estFloodInsuranceAnnual": 725,
+    "floodZone": "X (shaded)",
+    "floodHistory": "Within the 0.2%-annual (500-yr) zone; no recorded structural flood losses.",
+    "daysOnMarket": 52,
+    "priceHistory": [
+      {
+        "date": "2026-05-06",
+        "price": 1030000
+      }
+    ],
+    "sellerConcessions": 13000,
+    "listingAgent": "Carolina One Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 5,
+      "hvacAgeYears": 4,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Daniel Island School",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Daniel Island School",
+        "rating": 8
+      },
+      "high": {
+        "name": "Philip Simmons High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 41,
+    "bikeScore": 57,
+    "transitScore": 24,
+    "commute": {
+      "airportCHS": 17,
+      "downtown": 25,
+      "beach": 25,
+      "costco": 16,
+      "publix": 8,
+      "boeing": 15,
+      "jointBaseCharleston": 23,
+      "hospital": 18,
+      "flightSchool": 16,
+      "parks": 3,
+      "boatRamp": 7,
+      "shopping": 4
+    }
+  },
+  {
+    "id": "daniel-island-seven-farms-dr-1683-40",
+    "mlsId": "CHS2405480",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1683%20Seven%20Farms%20Dr%2C%20Charleston%2C%20SC%2029492_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1683%20Seven%20Farms%20Dr%2C%20Charleston%2C%20SC%2029492",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1683%20Seven%20Farms%20Dr%2C%20Charleston%2C%20SC%2029492",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.870208,-79.901266",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-daniel-island-seven-farms-dr-1683-40"
+    },
+    "photos": [
+      "https://picsum.photos/seed/daniel-island-seven-farms-dr-1683-40-a/960/640",
+      "https://picsum.photos/seed/daniel-island-seven-farms-dr-1683-40-b/960/640",
+      "https://picsum.photos/seed/daniel-island-seven-farms-dr-1683-40-c/960/640",
+      "https://picsum.photos/seed/daniel-island-seven-farms-dr-1683-40-d/960/640"
+    ],
+    "address": "1683 Seven Farms Dr",
+    "lat": 32.870208,
+    "lng": -79.901266,
+    "neighborhood": "Daniel Island",
+    "subdivision": "Daniel Island",
+    "city": "Charleston",
+    "zip": "29492",
+    "county": "Berkeley",
+    "builder": "Toll Brothers",
+    "yearBuilt": 2022,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 1943,
+    "lotSizeAcres": 0.05,
+    "price": 720000,
+    "hoaMonthly": 300,
+    "annualTaxes": 3275,
+    "estInsuranceAnnual": 4600,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 76,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 752000
+      },
+      {
+        "date": "2026-05-28",
+        "price": 720000
+      }
+    ],
+    "sellerConcessions": 10000,
+    "listingAgent": "Keller Williams Charleston",
+    "propertyType": "Condo",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 1,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Daniel Island School",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Daniel Island School",
+        "rating": 8
+      },
+      "high": {
+        "name": "Philip Simmons High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 39,
+    "bikeScore": 51,
+    "transitScore": 15,
+    "commute": {
+      "airportCHS": 21,
+      "downtown": 24,
+      "beach": 25,
+      "costco": 13,
+      "publix": 7,
+      "boeing": 17,
+      "jointBaseCharleston": 20,
+      "hospital": 18,
+      "flightSchool": 19,
+      "parks": 4,
+      "boatRamp": 5,
+      "shopping": 8
+    }
+  },
+  {
+    "id": "point-hope-sanctuary-park-dr-541-41",
+    "mlsId": "CHS2405617",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/541%20Sanctuary%20Park%20Dr%2C%20Charleston%2C%20SC%2029492_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/541%20Sanctuary%20Park%20Dr%2C%20Charleston%2C%20SC%2029492",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=541%20Sanctuary%20Park%20Dr%2C%20Charleston%2C%20SC%2029492",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.907803,-79.870506",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-point-hope-sanctuary-park-dr-541-41"
+    },
+    "photos": [
+      "https://picsum.photos/seed/point-hope-sanctuary-park-dr-541-41-a/960/640",
+      "https://picsum.photos/seed/point-hope-sanctuary-park-dr-541-41-b/960/640",
+      "https://picsum.photos/seed/point-hope-sanctuary-park-dr-541-41-c/960/640",
+      "https://picsum.photos/seed/point-hope-sanctuary-park-dr-541-41-d/960/640"
+    ],
+    "address": "541 Sanctuary Park Dr",
+    "lat": 32.907803,
+    "lng": -79.870506,
+    "neighborhood": "Point Hope",
+    "subdivision": "Point Hope",
+    "city": "Charleston",
+    "zip": "29492",
+    "county": "Berkeley",
+    "builder": "Lennar",
+    "yearBuilt": 2022,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 1,
+    "sqft": 2221,
+    "lotSizeAcres": 0.14,
+    "price": 627000,
+    "hoaMonthly": 120,
+    "annualTaxes": 3525,
+    "estInsuranceAnnual": 4050,
+    "estFloodInsuranceAnnual": 725,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 75,
+    "priceHistory": [
+      {
+        "date": "2026-04-13",
+        "price": 653000
+      },
+      {
+        "date": "2026-05-28",
+        "price": 627000
+      }
+    ],
+    "sellerConcessions": 6000,
+    "listingAgent": "Keller Williams Charleston",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 3,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Philip Simmons Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Philip Simmons Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Philip Simmons High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 33,
+    "bikeScore": 42,
+    "transitScore": 13,
+    "commute": {
+      "airportCHS": 25,
+      "downtown": 26,
+      "beach": 28,
+      "costco": 15,
+      "publix": 8,
+      "boeing": 21,
+      "jointBaseCharleston": 23,
+      "hospital": 16,
+      "flightSchool": 21,
+      "parks": 5,
+      "boatRamp": 12,
+      "shopping": 11
+    }
+  },
+  {
+    "id": "point-hope-sanctuary-park-dr-2358-42",
+    "mlsId": "CHS2405754",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2358%20Sanctuary%20Park%20Dr%2C%20Charleston%2C%20SC%2029492_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2358%20Sanctuary%20Park%20Dr%2C%20Charleston%2C%20SC%2029492",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2358%20Sanctuary%20Park%20Dr%2C%20Charleston%2C%20SC%2029492",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.905052,-79.872754",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-point-hope-sanctuary-park-dr-2358-42"
+    },
+    "photos": [
+      "https://picsum.photos/seed/point-hope-sanctuary-park-dr-2358-42-a/960/640",
+      "https://picsum.photos/seed/point-hope-sanctuary-park-dr-2358-42-b/960/640",
+      "https://picsum.photos/seed/point-hope-sanctuary-park-dr-2358-42-c/960/640",
+      "https://picsum.photos/seed/point-hope-sanctuary-park-dr-2358-42-d/960/640"
+    ],
+    "address": "2358 Sanctuary Park Dr",
+    "lat": 32.905052,
+    "lng": -79.872754,
+    "neighborhood": "Point Hope",
+    "subdivision": "Point Hope",
+    "city": "Charleston",
+    "zip": "29492",
+    "county": "Berkeley",
+    "builder": "Pulte Homes",
+    "yearBuilt": 2020,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2361,
+    "lotSizeAcres": 0.13,
+    "price": 609000,
+    "hoaMonthly": 115,
+    "annualTaxes": 2850,
+    "estInsuranceAnnual": 3150,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 78,
+    "priceHistory": [
+      {
+        "date": "2026-04-10",
+        "price": 642000
+      },
+      {
+        "date": "2026-05-27",
+        "price": 609000
+      }
+    ],
+    "sellerConcessions": 4000,
+    "listingAgent": "Brand Name Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 3,
+      "hvacAgeYears": 0,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Philip Simmons Elementary",
+        "rating": 8
+      },
+      "middle": {
+        "name": "Philip Simmons Middle",
+        "rating": 8
+      },
+      "high": {
+        "name": "Philip Simmons High",
+        "rating": 8
+      }
+    },
+    "crimeRating": 9,
+    "walkScore": 28,
+    "bikeScore": 50,
+    "transitScore": 10,
+    "commute": {
+      "airportCHS": 24,
+      "downtown": 27,
+      "beach": 27,
+      "costco": 16,
+      "publix": 11,
+      "boeing": 16,
+      "jointBaseCharleston": 20,
+      "hospital": 18,
+      "flightSchool": 22,
+      "parks": 8,
+      "boatRamp": 10,
+      "shopping": 8
+    }
+  },
+  {
+    "id": "carnes-crossroads-mascord-way-1828-43",
+    "mlsId": "CHS2405891",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1828%20Mascord%20Way%2C%20Summerville%2C%20SC%2029486_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1828%20Mascord%20Way%2C%20Summerville%2C%20SC%2029486",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1828%20Mascord%20Way%2C%20Summerville%2C%20SC%2029486",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=33.005342,-80.075226",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-carnes-crossroads-mascord-way-1828-43"
+    },
+    "photos": [
+      "https://picsum.photos/seed/carnes-crossroads-mascord-way-1828-43-a/960/640",
+      "https://picsum.photos/seed/carnes-crossroads-mascord-way-1828-43-b/960/640",
+      "https://picsum.photos/seed/carnes-crossroads-mascord-way-1828-43-c/960/640",
+      "https://picsum.photos/seed/carnes-crossroads-mascord-way-1828-43-d/960/640"
+    ],
+    "address": "1828 Mascord Way",
+    "lat": 33.005342,
+    "lng": -80.075226,
+    "neighborhood": "Carnes Crossroads",
+    "subdivision": "Carnes Crossroads",
+    "city": "Summerville",
+    "zip": "29486",
+    "county": "Berkeley",
+    "builder": "Pulte Homes",
+    "yearBuilt": 2022,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2258,
+    "lotSizeAcres": 0.22,
+    "price": 471000,
+    "hoaMonthly": 120,
+    "annualTaxes": 2325,
+    "estInsuranceAnnual": 2550,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 15,
+    "priceHistory": [
+      {
+        "date": "2026-06-12",
+        "price": 471000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Matt O'Neill Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 3,
+      "hvacAgeYears": 1,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Foxbank Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "Berkeley Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "Berkeley High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 29,
+    "bikeScore": 48,
+    "transitScore": 12,
+    "commute": {
+      "airportCHS": 26,
+      "downtown": 31,
+      "beach": 41,
+      "costco": 23,
+      "publix": 6,
+      "boeing": 18,
+      "jointBaseCharleston": 19,
+      "hospital": 14,
+      "flightSchool": 27,
+      "parks": 5,
+      "boatRamp": 23,
+      "shopping": 6
+    }
+  },
+  {
+    "id": "carnes-crossroads-hundred-oaks-pkwy-2209-44",
+    "mlsId": "CHS2406028",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2209%20Hundred%20Oaks%20Pkwy%2C%20Summerville%2C%20SC%2029486_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2209%20Hundred%20Oaks%20Pkwy%2C%20Summerville%2C%20SC%2029486",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2209%20Hundred%20Oaks%20Pkwy%2C%20Summerville%2C%20SC%2029486",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=33.009523,-80.077138",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-carnes-crossroads-hundred-oaks-pkwy-2209-44"
+    },
+    "photos": [
+      "https://picsum.photos/seed/carnes-crossroads-hundred-oaks-pkwy-2209-44-a/960/640",
+      "https://picsum.photos/seed/carnes-crossroads-hundred-oaks-pkwy-2209-44-b/960/640",
+      "https://picsum.photos/seed/carnes-crossroads-hundred-oaks-pkwy-2209-44-c/960/640",
+      "https://picsum.photos/seed/carnes-crossroads-hundred-oaks-pkwy-2209-44-d/960/640"
+    ],
+    "address": "2209 Hundred Oaks Pkwy",
+    "lat": 33.009523,
+    "lng": -80.077138,
+    "neighborhood": "Carnes Crossroads",
+    "subdivision": "Carnes Crossroads",
+    "city": "Summerville",
+    "zip": "29486",
+    "county": "Berkeley",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2022,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2351,
+    "lotSizeAcres": 0.14,
+    "price": 491000,
+    "hoaMonthly": 105,
+    "annualTaxes": 2750,
+    "estInsuranceAnnual": 3300,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 31,
+    "priceHistory": [
+      {
+        "date": "2026-05-27",
+        "price": 491000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "The Boulevard Company",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 3,
+      "hvacAgeYears": 3,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Carolyn Lewis Elementary",
+        "rating": 7
+      },
+      "middle": {
+        "name": "Berkeley Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "Berkeley High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 46,
+    "bikeScore": 49,
+    "transitScore": 18,
+    "commute": {
+      "airportCHS": 23,
+      "downtown": 33,
+      "beach": 38,
+      "costco": 24,
+      "publix": 5,
+      "boeing": 18,
+      "jointBaseCharleston": 22,
+      "hospital": 16,
+      "flightSchool": 23,
+      "parks": 9,
+      "boatRamp": 19,
+      "shopping": 11
+    }
+  },
+  {
+    "id": "nexton-edenton-rd-1682-45",
+    "mlsId": "CHS2406165",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1682%20Edenton%20Rd%2C%20Summerville%2C%20SC%2029486_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1682%20Edenton%20Rd%2C%20Summerville%2C%20SC%2029486",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1682%20Edenton%20Rd%2C%20Summerville%2C%20SC%2029486",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=33.007566,-80.178145",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-nexton-edenton-rd-1682-45"
+    },
+    "photos": [
+      "https://picsum.photos/seed/nexton-edenton-rd-1682-45-a/960/640",
+      "https://picsum.photos/seed/nexton-edenton-rd-1682-45-b/960/640",
+      "https://picsum.photos/seed/nexton-edenton-rd-1682-45-c/960/640",
+      "https://picsum.photos/seed/nexton-edenton-rd-1682-45-d/960/640"
+    ],
+    "address": "1682 Edenton Rd",
+    "lat": 33.007566,
+    "lng": -80.178145,
+    "neighborhood": "Nexton",
+    "subdivision": "Nexton",
+    "city": "Summerville",
+    "zip": "29486",
+    "county": "Berkeley",
+    "builder": "Lennar",
+    "yearBuilt": 2022,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 1,
+    "sqft": 2550,
+    "lotSizeAcres": 0.2,
+    "price": 525000,
+    "hoaMonthly": 125,
+    "annualTaxes": 2550,
+    "estInsuranceAnnual": 3250,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 39,
+    "priceHistory": [
+      {
+        "date": "2026-05-19",
+        "price": 525000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "EXP Realty LLC",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 0,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Nexton Elementary",
+        "rating": 7
+      },
+      "middle": {
+        "name": "Cane Bay Middle",
+        "rating": 6
+      },
+      "high": {
+        "name": "Cane Bay High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 45,
+    "bikeScore": 52,
+    "transitScore": 15,
+    "commute": {
+      "airportCHS": 34,
+      "downtown": 39,
+      "beach": 44,
+      "costco": 25,
+      "publix": 7,
+      "boeing": 29,
+      "jointBaseCharleston": 26,
+      "hospital": 18,
+      "flightSchool": 29,
+      "parks": 7,
+      "boatRamp": 21,
+      "shopping": 6
+    }
+  },
+  {
+    "id": "nexton-marvin-gardens-ln-4539-46",
+    "mlsId": "CHS2406302",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4539%20Marvin%20Gardens%20Ln%2C%20Summerville%2C%20SC%2029486_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4539%20Marvin%20Gardens%20Ln%2C%20Summerville%2C%20SC%2029486",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4539%20Marvin%20Gardens%20Ln%2C%20Summerville%2C%20SC%2029486",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=33.021429,-80.169071"
+    },
+    "photos": [
+      "https://picsum.photos/seed/nexton-marvin-gardens-ln-4539-46-a/960/640",
+      "https://picsum.photos/seed/nexton-marvin-gardens-ln-4539-46-b/960/640",
+      "https://picsum.photos/seed/nexton-marvin-gardens-ln-4539-46-c/960/640",
+      "https://picsum.photos/seed/nexton-marvin-gardens-ln-4539-46-d/960/640"
+    ],
+    "address": "4539 Marvin Gardens Ln",
+    "lat": 33.021429,
+    "lng": -80.169071,
+    "neighborhood": "Nexton",
+    "subdivision": "Nexton",
+    "city": "Summerville",
+    "zip": "29486",
+    "county": "Berkeley",
+    "builder": "David Weekley Homes",
+    "yearBuilt": 2020,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 3,
+    "stories": 2,
+    "sqft": 1957,
+    "lotSizeAcres": 0.15,
+    "price": 426000,
+    "hoaMonthly": 105,
+    "annualTaxes": 1950,
+    "estInsuranceAnnual": 2550,
+    "estFloodInsuranceAnnual": 600,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 87,
+    "priceHistory": [
+      {
+        "date": "2026-04-01",
+        "price": 436000
+      },
+      {
+        "date": "2026-05-23",
+        "price": 426000
+      }
+    ],
+    "sellerConcessions": 2000,
+    "listingAgent": "Brand Name Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 4,
+      "hvacAgeYears": 2,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Hardiplank fiber cement",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Cane Bay Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "Sangaree Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "Cane Bay High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 47,
+    "bikeScore": 48,
+    "transitScore": 11,
+    "commute": {
+      "airportCHS": 30,
+      "downtown": 37,
+      "beach": 42,
+      "costco": 26,
+      "publix": 6,
+      "boeing": 29,
+      "jointBaseCharleston": 29,
+      "hospital": 21,
+      "flightSchool": 30,
+      "parks": 7,
+      "boatRamp": 22,
+      "shopping": 4
+    }
+  },
+  {
+    "id": "nexton-marvin-gardens-ln-4581-47",
+    "mlsId": "CHS2406439",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4581%20Marvin%20Gardens%20Ln%20Unit%208%2C%20Summerville%2C%20SC%2029486_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4581%20Marvin%20Gardens%20Ln%20Unit%208%2C%20Summerville%2C%20SC%2029486",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4581%20Marvin%20Gardens%20Ln%20Unit%208%2C%20Summerville%2C%20SC%2029486",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=33.011366,-80.181579",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-nexton-marvin-gardens-ln-4581-47"
+    },
+    "photos": [
+      "https://picsum.photos/seed/nexton-marvin-gardens-ln-4581-47-a/960/640",
+      "https://picsum.photos/seed/nexton-marvin-gardens-ln-4581-47-b/960/640",
+      "https://picsum.photos/seed/nexton-marvin-gardens-ln-4581-47-c/960/640",
+      "https://picsum.photos/seed/nexton-marvin-gardens-ln-4581-47-d/960/640"
+    ],
+    "address": "4581 Marvin Gardens Ln Unit 8",
+    "lat": 33.011366,
+    "lng": -80.181579,
+    "neighborhood": "Nexton",
+    "subdivision": "Nexton",
+    "city": "Summerville",
+    "zip": "29486",
+    "county": "Berkeley",
+    "builder": "Lennar",
+    "yearBuilt": 2021,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "halfBaths": 0,
+    "garageSpaces": 1,
+    "stories": 3,
+    "sqft": 1865,
+    "lotSizeAcres": 0.06,
+    "price": 400000,
+    "hoaMonthly": 285,
+    "annualTaxes": 1950,
+    "estInsuranceAnnual": 2500,
+    "estFloodInsuranceAnnual": 475,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 21,
+    "priceHistory": [
+      {
+        "date": "2026-06-06",
+        "price": 400000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Matt O'Neill Real Estate",
+    "propertyType": "Townhome",
+    "condition": {
+      "roofAgeYears": 4,
+      "hvacAgeYears": 1,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Nexton Elementary",
+        "rating": 7
+      },
+      "middle": {
+        "name": "Sangaree Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "Cane Bay High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 35,
+    "bikeScore": 49,
+    "transitScore": 15,
+    "commute": {
+      "airportCHS": 33,
+      "downtown": 38,
+      "beach": 41,
+      "costco": 26,
+      "publix": 6,
+      "boeing": 23,
+      "jointBaseCharleston": 26,
+      "hospital": 15,
+      "flightSchool": 34,
+      "parks": 7,
+      "boatRamp": 23,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "summerville-old-trolley-rd-444-48",
+    "mlsId": "CHS2406576",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/444%20Old%20Trolley%20Rd%2C%20Summerville%2C%20SC%2029483_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/444%20Old%20Trolley%20Rd%2C%20Summerville%2C%20SC%2029483",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=444%20Old%20Trolley%20Rd%2C%20Summerville%2C%20SC%2029483",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=33.012404,-80.185514"
+    },
+    "photos": [
+      "https://picsum.photos/seed/summerville-old-trolley-rd-444-48-a/960/640",
+      "https://picsum.photos/seed/summerville-old-trolley-rd-444-48-b/960/640",
+      "https://picsum.photos/seed/summerville-old-trolley-rd-444-48-c/960/640",
+      "https://picsum.photos/seed/summerville-old-trolley-rd-444-48-d/960/640"
+    ],
+    "address": "444 Old Trolley Rd",
+    "lat": 33.012404,
+    "lng": -80.185514,
+    "neighborhood": "Summerville",
+    "subdivision": "Summerville",
+    "city": "Summerville",
+    "zip": "29483",
+    "county": "Dorchester",
+    "builder": "Mungo Homes",
+    "yearBuilt": 2022,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 1997,
+    "lotSizeAcres": 0.23,
+    "price": 370000,
+    "hoaMonthly": 20,
+    "annualTaxes": 2075,
+    "estInsuranceAnnual": 2450,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 74,
+    "priceHistory": [
+      {
+        "date": "2026-04-14",
+        "price": 381000
+      },
+      {
+        "date": "2026-05-28",
+        "price": 370000
+      }
+    ],
+    "sellerConcessions": 5000,
+    "listingAgent": "Keller Williams Charleston",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 0,
+      "hvacAgeYears": 1,
+      "waterHeater": "Tankless (gas)",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Dorchester School District Two",
+      "elementary": {
+        "name": "Sangaree Elementary",
+        "rating": 5
+      },
+      "middle": {
+        "name": "Sangaree Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "Cane Bay High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 44,
+    "bikeScore": 45,
+    "transitScore": 15,
+    "commute": {
+      "airportCHS": 34,
+      "downtown": 36,
+      "beach": 46,
+      "costco": 30,
+      "publix": 6,
+      "boeing": 28,
+      "jointBaseCharleston": 23,
+      "hospital": 14,
+      "flightSchool": 36,
+      "parks": 9,
+      "boatRamp": 25,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "summerville-beech-hill-rd-159-49",
+    "mlsId": "CHS2406713",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/159%20Beech%20Hill%20Rd%2C%20Summerville%2C%20SC%2029483_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/159%20Beech%20Hill%20Rd%2C%20Summerville%2C%20SC%2029483",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=159%20Beech%20Hill%20Rd%2C%20Summerville%2C%20SC%2029483",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=33.009374,-80.176265"
+    },
+    "photos": [
+      "https://picsum.photos/seed/summerville-beech-hill-rd-159-49-a/960/640",
+      "https://picsum.photos/seed/summerville-beech-hill-rd-159-49-b/960/640",
+      "https://picsum.photos/seed/summerville-beech-hill-rd-159-49-c/960/640",
+      "https://picsum.photos/seed/summerville-beech-hill-rd-159-49-d/960/640"
+    ],
+    "address": "159 Beech Hill Rd",
+    "lat": 33.009374,
+    "lng": -80.176265,
+    "neighborhood": "Summerville",
+    "subdivision": "Summerville",
+    "city": "Summerville",
+    "zip": "29483",
+    "county": "Dorchester",
+    "builder": "Lennar",
+    "yearBuilt": 2021,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 1,
+    "sqft": 1938,
+    "lotSizeAcres": 0.26,
+    "price": 386000,
+    "hoaMonthly": 70,
+    "annualTaxes": 1700,
+    "estInsuranceAnnual": 2100,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 67,
+    "priceHistory": [
+      {
+        "date": "2026-04-21",
+        "price": 397000
+      },
+      {
+        "date": "2026-05-31",
+        "price": 386000
+      }
+    ],
+    "sellerConcessions": 3000,
+    "listingAgent": "Keller Williams Charleston",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 2,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Dorchester School District Two",
+      "elementary": {
+        "name": "Beech Hill Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "Sangaree Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "Cane Bay High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 36,
+    "bikeScore": 43,
+    "transitScore": 20,
+    "commute": {
+      "airportCHS": 35,
+      "downtown": 39,
+      "beach": 46,
+      "costco": 30,
+      "publix": 8,
+      "boeing": 26,
+      "jointBaseCharleston": 26,
+      "hospital": 14,
+      "flightSchool": 35,
+      "parks": 7,
+      "boatRamp": 23,
+      "shopping": 10
+    }
+  },
+  {
+    "id": "the-ponds-hundred-oaks-pkwy-3363-50",
+    "mlsId": "CHS2406850",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3363%20Hundred%20Oaks%20Pkwy%2C%20Summerville%2C%20SC%2029483_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3363%20Hundred%20Oaks%20Pkwy%2C%20Summerville%2C%20SC%2029483",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3363%20Hundred%20Oaks%20Pkwy%2C%20Summerville%2C%20SC%2029483",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.956836,-80.224986"
+    },
+    "photos": [
+      "https://picsum.photos/seed/the-ponds-hundred-oaks-pkwy-3363-50-a/960/640",
+      "https://picsum.photos/seed/the-ponds-hundred-oaks-pkwy-3363-50-b/960/640",
+      "https://picsum.photos/seed/the-ponds-hundred-oaks-pkwy-3363-50-c/960/640",
+      "https://picsum.photos/seed/the-ponds-hundred-oaks-pkwy-3363-50-d/960/640"
+    ],
+    "address": "3363 Hundred Oaks Pkwy",
+    "lat": 32.956836,
+    "lng": -80.224986,
+    "neighborhood": "The Ponds",
+    "subdivision": "The Ponds",
+    "city": "Summerville",
+    "zip": "29483",
+    "county": "Dorchester",
+    "builder": "D.R. Horton",
+    "yearBuilt": 2022,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2098,
+    "lotSizeAcres": 0.23,
+    "price": 441000,
+    "hoaMonthly": 35,
+    "annualTaxes": 2375,
+    "estInsuranceAnnual": 2850,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 36,
+    "priceHistory": [
+      {
+        "date": "2026-05-22",
+        "price": 458000
+      },
+      {
+        "date": "2026-06-13",
+        "price": 441000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Coldwell Banker Realty",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 3,
+      "hvacAgeYears": 2,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "Comcast Xfinity (cable)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Dorchester School District Two",
+      "elementary": {
+        "name": "Beech Hill Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "Sangaree Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "Cane Bay High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 42,
+    "bikeScore": 43,
+    "transitScore": 12,
+    "commute": {
+      "airportCHS": 32,
+      "downtown": 37,
+      "beach": 45,
+      "costco": 28,
+      "publix": 5,
+      "boeing": 26,
+      "jointBaseCharleston": 26,
+      "hospital": 14,
+      "flightSchool": 35,
+      "parks": 9,
+      "boatRamp": 26,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "the-ponds-amblescroft-rd-3551-51",
+    "mlsId": "CHS2406987",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3551%20Amblescroft%20Rd%20Unit%205%2C%20Summerville%2C%20SC%2029483_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3551%20Amblescroft%20Rd%20Unit%205%2C%20Summerville%2C%20SC%2029483",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3551%20Amblescroft%20Rd%20Unit%205%2C%20Summerville%2C%20SC%2029483",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.970841,-80.224506"
+    },
+    "photos": [
+      "https://picsum.photos/seed/the-ponds-amblescroft-rd-3551-51-a/960/640",
+      "https://picsum.photos/seed/the-ponds-amblescroft-rd-3551-51-b/960/640",
+      "https://picsum.photos/seed/the-ponds-amblescroft-rd-3551-51-c/960/640",
+      "https://picsum.photos/seed/the-ponds-amblescroft-rd-3551-51-d/960/640"
+    ],
+    "address": "3551 Amblescroft Rd Unit 5",
+    "lat": 32.970841,
+    "lng": -80.224506,
+    "neighborhood": "The Ponds",
+    "subdivision": "The Ponds",
+    "city": "Summerville",
+    "zip": "29483",
+    "county": "Dorchester",
+    "builder": "Mungo Homes",
+    "yearBuilt": 2022,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 3,
+    "sqft": 1771,
+    "lotSizeAcres": 0.06,
+    "price": 360000,
+    "hoaMonthly": 205,
+    "annualTaxes": 2050,
+    "estInsuranceAnnual": 2350,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 73,
+    "priceHistory": [
+      {
+        "date": "2026-04-15",
+        "price": 360000
+      }
+    ],
+    "sellerConcessions": 2500,
+    "listingAgent": "Brand Name Real Estate",
+    "propertyType": "Condo",
+    "condition": {
+      "roofAgeYears": 3,
+      "hvacAgeYears": 4,
+      "waterHeater": "40-gal gas",
+      "exteriorMaterial": "Stucco & Hardiplank",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Dorchester School District Two",
+      "elementary": {
+        "name": "Beech Hill Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "Gregg Middle",
+        "rating": 6
+      },
+      "high": {
+        "name": "Summerville High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 34,
+    "bikeScore": 45,
+    "transitScore": 13,
+    "commute": {
+      "airportCHS": 31,
+      "downtown": 33,
+      "beach": 41,
+      "costco": 32,
+      "publix": 9,
+      "boeing": 31,
+      "jointBaseCharleston": 29,
+      "hospital": 16,
+      "flightSchool": 34,
+      "parks": 11,
+      "boatRamp": 24,
+      "shopping": 6
+    }
+  },
+  {
+    "id": "wescott-plantation-sayle-dr-4935-52",
+    "mlsId": "CHS2407124",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/4935%20Sayle%20Dr%2C%20Summerville%2C%20SC%2029483_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/4935%20Sayle%20Dr%2C%20Summerville%2C%20SC%2029483",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=4935%20Sayle%20Dr%2C%20Summerville%2C%20SC%2029483",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.919291,-80.112671"
+    },
+    "photos": [
+      "https://picsum.photos/seed/wescott-plantation-sayle-dr-4935-52-a/960/640",
+      "https://picsum.photos/seed/wescott-plantation-sayle-dr-4935-52-b/960/640",
+      "https://picsum.photos/seed/wescott-plantation-sayle-dr-4935-52-c/960/640",
+      "https://picsum.photos/seed/wescott-plantation-sayle-dr-4935-52-d/960/640"
+    ],
+    "address": "4935 Sayle Dr",
+    "lat": 32.919291,
+    "lng": -80.112671,
+    "neighborhood": "Wescott Plantation",
+    "subdivision": "Wescott Plantation",
+    "city": "Summerville",
+    "zip": "29483",
+    "county": "Dorchester",
+    "builder": "D.R. Horton",
+    "yearBuilt": 2021,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2416,
+    "lotSizeAcres": 0.23,
+    "price": 520000,
+    "hoaMonthly": 45,
+    "annualTaxes": 2975,
+    "estInsuranceAnnual": 2800,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X (shaded)",
+    "floodHistory": "Within the 0.2%-annual (500-yr) zone; no recorded structural flood losses.",
+    "daysOnMarket": 16,
+    "priceHistory": [
+      {
+        "date": "2026-06-11",
+        "price": 520000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Brand Name Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 5,
+      "waterHeater": "Tankless (electric)",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Solar-ready",
+        "Conditioned crawlspace",
+        "16 SEER HVAC"
+      ],
+      "internet": "Home Telecom Fiber (gigabit)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Dorchester School District Two",
+      "elementary": {
+        "name": "Sangaree Elementary",
+        "rating": 5
+      },
+      "middle": {
+        "name": "Sangaree Middle",
+        "rating": 5
+      },
+      "high": {
+        "name": "Cane Bay High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 41,
+    "bikeScore": 46,
+    "transitScore": 14,
+    "commute": {
+      "airportCHS": 36,
+      "downtown": 38,
+      "beach": 41,
+      "costco": 29,
+      "publix": 10,
+      "boeing": 28,
+      "jointBaseCharleston": 26,
+      "hospital": 15,
+      "flightSchool": 36,
+      "parks": 7,
+      "boatRamp": 22,
+      "shopping": 5
+    }
+  },
+  {
+    "id": "wescott-plantation-plantation-pointe-dr-3469-53",
+    "mlsId": "CHS2407261",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/3469%20Plantation%20Pointe%20Dr%2C%20Summerville%2C%20SC%2029483_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/3469%20Plantation%20Pointe%20Dr%2C%20Summerville%2C%20SC%2029483",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=3469%20Plantation%20Pointe%20Dr%2C%20Summerville%2C%20SC%2029483",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=32.926157,-80.105545",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-wescott-plantation-plantation-pointe-dr-3469-53"
+    },
+    "photos": [
+      "https://picsum.photos/seed/wescott-plantation-plantation-pointe-dr-3469-53-a/960/640",
+      "https://picsum.photos/seed/wescott-plantation-plantation-pointe-dr-3469-53-b/960/640",
+      "https://picsum.photos/seed/wescott-plantation-plantation-pointe-dr-3469-53-c/960/640",
+      "https://picsum.photos/seed/wescott-plantation-plantation-pointe-dr-3469-53-d/960/640"
+    ],
+    "address": "3469 Plantation Pointe Dr",
+    "lat": 32.926157,
+    "lng": -80.105545,
+    "neighborhood": "Wescott Plantation",
+    "subdivision": "Wescott Plantation",
+    "city": "Summerville",
+    "zip": "29483",
+    "county": "Dorchester",
+    "builder": "D.R. Horton",
+    "yearBuilt": 2020,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 1,
+    "garageSpaces": 1,
+    "stories": 3,
+    "sqft": 2001,
+    "lotSizeAcres": 0.07,
+    "price": 437000,
+    "hoaMonthly": 280,
+    "annualTaxes": 2375,
+    "estInsuranceAnnual": 2700,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 48,
+    "priceHistory": [
+      {
+        "date": "2026-05-10",
+        "price": 437000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Dunes Properties",
+    "propertyType": "Townhome",
+    "condition": {
+      "roofAgeYears": 1,
+      "hvacAgeYears": 3,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Radiant barrier",
+        "15 SEER HVAC",
+        "ENERGY STAR appliances"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Dorchester School District Two",
+      "elementary": {
+        "name": "Beech Hill Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "Gregg Middle",
+        "rating": 6
+      },
+      "high": {
+        "name": "Cane Bay High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 39,
+    "bikeScore": 48,
+    "transitScore": 13,
+    "commute": {
+      "airportCHS": 32,
+      "downtown": 37,
+      "beach": 42,
+      "costco": 32,
+      "publix": 10,
+      "boeing": 26,
+      "jointBaseCharleston": 25,
+      "hospital": 15,
+      "flightSchool": 36,
+      "parks": 10,
+      "boatRamp": 24,
+      "shopping": 7
+    }
+  },
+  {
+    "id": "cane-bay-saint-brides-dr-2340-54",
+    "mlsId": "CHS2407398",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/2340%20Saint%20Brides%20Dr%2C%20Summerville%2C%20SC%2029486_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/2340%20Saint%20Brides%20Dr%2C%20Summerville%2C%20SC%2029486",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=2340%20Saint%20Brides%20Dr%2C%20Summerville%2C%20SC%2029486",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=33.06434,-80.12541",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-cane-bay-saint-brides-dr-2340-54"
+    },
+    "photos": [
+      "https://picsum.photos/seed/cane-bay-saint-brides-dr-2340-54-a/960/640",
+      "https://picsum.photos/seed/cane-bay-saint-brides-dr-2340-54-b/960/640",
+      "https://picsum.photos/seed/cane-bay-saint-brides-dr-2340-54-c/960/640",
+      "https://picsum.photos/seed/cane-bay-saint-brides-dr-2340-54-d/960/640"
+    ],
+    "address": "2340 Saint Brides Dr",
+    "lat": 33.06434,
+    "lng": -80.12541,
+    "neighborhood": "Cane Bay",
+    "subdivision": "Cane Bay",
+    "city": "Summerville",
+    "zip": "29486",
+    "county": "Berkeley",
+    "builder": "Del Webb",
+    "yearBuilt": 2021,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "halfBaths": 1,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2522,
+    "lotSizeAcres": 0.18,
+    "price": 480000,
+    "hoaMonthly": 100,
+    "annualTaxes": 2600,
+    "estInsuranceAnnual": 2750,
+    "estFloodInsuranceAnnual": 0,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 3,
+    "priceHistory": [
+      {
+        "date": "2026-06-24",
+        "price": 480000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "Brand Name Real Estate",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 2,
+      "hvacAgeYears": 3,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Vinyl siding",
+      "energyFeatures": [
+        "Spray-foam attic",
+        "Tankless water heater",
+        "Low-E windows"
+      ],
+      "internet": "AT&T Fiber (1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Cane Bay Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "Cane Bay Middle",
+        "rating": 6
+      },
+      "high": {
+        "name": "Cane Bay High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 7,
+    "walkScore": 37,
+    "bikeScore": 47,
+    "transitScore": 14,
+    "commute": {
+      "airportCHS": 38,
+      "downtown": 43,
+      "beach": 48,
+      "costco": 35,
+      "publix": 8,
+      "boeing": 31,
+      "jointBaseCharleston": 36,
+      "hospital": 24,
+      "flightSchool": 40,
+      "parks": 8,
+      "boatRamp": 28,
+      "shopping": 9
+    }
+  },
+  {
+    "id": "cane-bay-cane-bay-blvd-1854-55",
+    "mlsId": "CHS2407535",
+    "source": "Sample MLS feed (curated)",
+    "listingUrls": {
+      "zillow": "https://www.zillow.com/homes/1854%20Cane%20Bay%20Blvd%2C%20Summerville%2C%20SC%2029486_rb/",
+      "realtor": "https://www.realtor.com/realestateandhomes-search/1854%20Cane%20Bay%20Blvd%2C%20Summerville%2C%20SC%2029486",
+      "redfin": "https://www.redfin.com/stingray/do/location-autocomplete?location=1854%20Cane%20Bay%20Blvd%2C%20Summerville%2C%20SC%2029486",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=33.0675,-80.131566",
+      "virtualTour": "https://my.matterport.com/show/?m=sample-cane-bay-cane-bay-blvd-1854-55"
+    },
+    "photos": [
+      "https://picsum.photos/seed/cane-bay-cane-bay-blvd-1854-55-a/960/640",
+      "https://picsum.photos/seed/cane-bay-cane-bay-blvd-1854-55-b/960/640",
+      "https://picsum.photos/seed/cane-bay-cane-bay-blvd-1854-55-c/960/640",
+      "https://picsum.photos/seed/cane-bay-cane-bay-blvd-1854-55-d/960/640"
+    ],
+    "address": "1854 Cane Bay Blvd",
+    "lat": 33.0675,
+    "lng": -80.131566,
+    "neighborhood": "Cane Bay",
+    "subdivision": "Cane Bay",
+    "city": "Summerville",
+    "zip": "29486",
+    "county": "Berkeley",
+    "builder": "Del Webb",
+    "yearBuilt": 2023,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "halfBaths": 0,
+    "garageSpaces": 2,
+    "stories": 2,
+    "sqft": 2072,
+    "lotSizeAcres": 0.18,
+    "price": 388000,
+    "hoaMonthly": 90,
+    "annualTaxes": 2000,
+    "estInsuranceAnnual": 2500,
+    "estFloodInsuranceAnnual": 700,
+    "floodZone": "X",
+    "floodHistory": "No recorded flood losses; outside the mapped 100/500-yr floodplain.",
+    "daysOnMarket": 22,
+    "priceHistory": [
+      {
+        "date": "2026-06-05",
+        "price": 388000
+      }
+    ],
+    "sellerConcessions": 0,
+    "listingAgent": "The Boulevard Company",
+    "propertyType": "Single Family",
+    "condition": {
+      "roofAgeYears": 0,
+      "hvacAgeYears": 1,
+      "waterHeater": "50-gal electric",
+      "exteriorMaterial": "Brick & Hardiplank",
+      "energyFeatures": [
+        "Smart thermostat",
+        "LED throughout",
+        "Low-E windows"
+      ],
+      "internet": "Spectrum (cable, 1 Gbps)",
+      "utilities": [
+        "Public water/sewer",
+        "Dominion Energy (electric)",
+        "Natural gas"
+      ]
+    },
+    "schools": {
+      "district": "Berkeley County School District",
+      "elementary": {
+        "name": "Cane Bay Elementary",
+        "rating": 6
+      },
+      "middle": {
+        "name": "Cane Bay Middle",
+        "rating": 6
+      },
+      "high": {
+        "name": "Cane Bay High",
+        "rating": 6
+      }
+    },
+    "crimeRating": 8,
+    "walkScore": 38,
+    "bikeScore": 41,
+    "transitScore": 17,
+    "commute": {
+      "airportCHS": 41,
+      "downtown": 46,
+      "beach": 47,
+      "costco": 33,
+      "publix": 8,
+      "boeing": 35,
+      "jointBaseCharleston": 33,
+      "hospital": 21,
+      "flightSchool": 39,
+      "parks": 5,
+      "boatRamp": 25,
+      "shopping": 9
+    }
+  }
+]
