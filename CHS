@@ -1,0 +1,899 @@
+Build a Charleston Area Home Search & Analysis Web Application
+
+Objective
+
+Build a professional real estate analysis application that automatically searches, aggregates, analyzes, ranks, and presents homes for sale in the Charleston, South Carolina metro area that meet the criteria below.
+
+The application should function similarly to a premium real estate analytics platform rather than simply displaying listings.
+
+The intended user is relocating from Greenville, SC to the Charleston area and wants objective financial and lifestyle analysis to make the best purchasing decision.
+
+⸻
+
+User Profile
+
+Current residence:
+Greenville, South Carolina
+
+Desired relocation:
+
+• Mount Pleasant (preferred)
+• Nearby areas if value is significantly better
+
+Primary goals:
+
+• Newer home
+• Good resale value
+• Family friendly
+• Strong schools
+• Close to airport
+• Manageable commute
+• Affordable monthly payment
+
+⸻
+
+Financial Information
+
+Current Home
+
+Purchased:
+
+March 2024
+
+Purchase Price:
+
+$420,000
+
+Estimate sale proceeds after commissions to determine available down payment.
+
+Support scenarios of:
+
+10%
+
+15%
+
+20%
+
+Down payment.
+
+⸻
+
+Household Income
+
+Husband:
+
+Current salary
+
+$100,000
+
+Future career:
+
+Commercial Airline Pilot
+
+Current flight hours:
+
+350
+
+Building approximately:
+
+20 flight hours/week
+
+ATP minimum:
+
+1,500 hours
+
+Estimate timeline to ATP.
+
+Estimate salary progression for:
+
+Regional First Officer
+
+Regional Captain
+
+Major Airline First Officer
+
+Major Airline Captain
+
+Include:
+
+Low
+
+Expected
+
+High salary estimates.
+
+⸻
+
+Wife
+
+Hourly:
+
+$40/hour
+
+35–40 hours/week
+
+Estimated annual income:
+
+$72,000–83,000
+
+⸻
+
+Household income today:
+
+Approximately
+
+$172k–183k.
+
+⸻
+
+Housing Budget
+
+Target total monthly payment:
+
+$3,100–3,300
+
+Including:
+
+Principal
+
+Interest
+
+Taxes
+
+Insurance
+
+HOA
+
+Flood insurance
+
+PMI (if applicable)
+
+⸻
+
+Mortgage Assumptions
+
+Allow changing:
+
+Interest rate
+
+Property tax rate
+
+Insurance
+
+HOA
+
+Flood insurance
+
+Down payment
+
+Loan term
+
+PMI assumptions
+
+Display:
+
+Principal
+
+Interest
+
+Taxes
+
+Insurance
+
+HOA
+
+Flood
+
+PMI
+
+Total monthly payment
+
+Debt-to-income ratio
+
+Cash to close
+
+Remaining emergency fund
+
+⸻
+
+Location Constraints
+
+Within approximately:
+
+35 minutes to Charleston International Airport (CHS)
+
+35 minutes to downtown Charleston
+
+During weekday traffic around 3 PM.
+
+Rank commute quality.
+
+⸻
+
+Target Areas
+
+Highest priority:
+
+Mount Pleasant
+
+Park West
+
+Carolina Park
+
+Dunes West
+
+Carolina Bay
+
+Hanahan
+
+Park Circle
+
+West Ashley
+
+Boltons Landing
+
+Daniel Island (only if exceptional deal)
+
+Summerville (only if exceptional)
+
+Cane Bay (lower priority)
+
+Automatically include nearby communities with similar characteristics.
+
+⸻
+
+Home Requirements
+
+Construction year:
+
+2018+
+
+Preferred:
+
+2020+
+
+Single-family preferred
+
+Townhomes acceptable
+
+Condo only if exceptional.
+
+Minimum:
+
+3 bedrooms
+
+2 bathrooms
+
+Garage preferred
+
+Minimum square footage:
+
+1,700
+
+Preferred:
+
+2,000+
+
+No major fixer uppers.
+
+⸻
+
+Required Data Sources
+
+Integrate live listing information from:
+
+Zillow
+
+Realtor.com
+
+Redfin
+
+MLS (if API available)
+
+New home builders
+
+County GIS
+
+FEMA Flood Maps
+
+Google Maps
+
+Google Distance Matrix
+
+NOAA
+
+Property tax databases
+
+School ratings
+
+Crime statistics
+
+Walk Score
+
+Insurance estimates
+
+Use APIs whenever possible.
+
+⸻
+
+For Every Home Collect
+
+Listing URL
+
+Website
+
+MLS ID
+
+Street Address
+
+Latitude
+
+Longitude
+
+Neighborhood
+
+Subdivision
+
+City
+
+ZIP
+
+County
+
+Builder
+
+Year Built
+
+Home Age
+
+Bedrooms
+
+Bathrooms
+
+Half Bathrooms
+
+Garage
+
+Stories
+
+Square Feet
+
+Lot Size
+
+Price
+
+Price Per Square Foot
+
+HOA
+
+Property Taxes
+
+Estimated Insurance
+
+Estimated Flood Insurance
+
+Flood Zone
+
+Flood History
+
+Days on Market
+
+Price Changes
+
+Listing Agent
+
+Seller Concessions
+
+Virtual Tour
+
+Photos
+
+Energy Features
+
+Roof Age
+
+HVAC Age
+
+Water Heater
+
+Exterior Material
+
+Internet Availability
+
+Utilities
+
+School District
+
+Elementary School
+
+Middle School
+
+High School
+
+School Ratings
+
+Crime Rating
+
+Walk Score
+
+Bike Score
+
+Transit Score
+
+Distance to:
+
+Airport
+
+Downtown Charleston
+
+Beach
+
+Costco
+
+Publix
+
+Boeing
+
+Joint Base Charleston
+
+Hospitals
+
+Flight schools
+
+Parks
+
+Boat ramps
+
+Shopping
+
+Restaurants
+
+⸻
+
+Mortgage Analysis
+
+Automatically estimate:
+
+Monthly payment
+
+Cash required
+
+Closing costs
+
+Taxes
+
+Insurance
+
+Flood
+
+PMI
+
+Maintenance reserve
+
+Five-year ownership cost
+
+Ten-year ownership cost
+
+Break-even analysis
+
+Projected equity
+
+Estimated appreciation
+
+⸻
+
+Commute Analysis
+
+Calculate:
+
+Airport commute
+
+Downtown commute
+
+Morning traffic
+
+Afternoon traffic
+
+Rush hour averages
+
+Google travel time
+
+⸻
+
+Insurance Analysis
+
+Estimate:
+
+Homeowners
+
+Wind
+
+Hurricane
+
+Flood
+
+Total annual insurance
+
+Likelihood of future increases
+
+⸻
+
+Flood Analysis
+
+Use FEMA maps.
+
+Identify:
+
+Zone X
+
+AE
+
+VE
+
+Flood history
+
+Nearby flooding
+
+Drainage concerns
+
+Elevation
+
+⸻
+
+Neighborhood Analysis
+
+Score:
+
+Schools
+
+Safety
+
+Amenities
+
+Growth
+
+Future appreciation
+
+Traffic
+
+Walkability
+
+Family friendliness
+
+Resale potential
+
+Airport convenience
+
+Pilot commuter convenience
+
+⸻
+
+Scoring Model
+
+Create weighted score (0–100)
+
+Example:
+
+25% Financial Value
+
+20% Commute
+
+15% Schools
+
+10% Flood Risk
+
+10% Appreciation
+
+10% Home Condition
+
+5% HOA
+
+5% Neighborhood
+
+Rank every property.
+
+Display:
+
+Overall Rank
+
+Buy
+
+Strong Buy
+
+Consider
+
+Pass
+
+⸻
+
+Interactive Dashboard
+
+Modern UI.
+
+Include:
+
+Map
+
+Filters
+
+Mortgage calculator
+
+Comparison tool
+
+Charts
+
+Neighborhood heat maps
+
+Commute maps
+
+Flood overlays
+
+School overlays
+
+Investment score
+
+Family score
+
+Airline commuter score
+
+⸻
+
+Spreadsheet Export
+
+Generate downloadable Excel workbook.
+
+Columns:
+
+Overall Rank
+
+Recommendation
+
+Score
+
+Address
+
+Neighborhood
+
+City
+
+ZIP
+
+Price
+
+Monthly Payment
+
+Down Payment
+
+Interest Rate
+
+Bedrooms
+
+Bathrooms
+
+Square Feet
+
+Lot Size
+
+Price/Sq Ft
+
+Garage
+
+Year Built
+
+Age
+
+HOA
+
+Taxes
+
+Insurance
+
+Flood
+
+PMI
+
+Estimated Maintenance
+
+Commute CHS
+
+Commute Downtown
+
+Flood Zone
+
+School Ratings
+
+Crime
+
+Builder
+
+Days on Market
+
+Price Changes
+
+Investment Score
+
+Family Score
+
+Airport Score
+
+Notes
+
+Clickable Zillow Link
+
+Clickable Realtor Link
+
+Clickable Redfin Link
+
+Google Maps Link
+
+Virtual Tour Link
+
+⸻
+
+Filtering
+
+Allow filtering by:
+
+Price
+
+Monthly payment
+
+Year built
+
+Square footage
+
+Bedrooms
+
+Bathrooms
+
+Garage
+
+Neighborhood
+
+Flood Zone
+
+HOA
+
+Airport commute
+
+Downtown commute
+
+School rating
+
+Home age
+
+Lot size
+
+Investment score
+
+⸻
+
+Charts
+
+Display:
+
+Price histogram
+
+Monthly payment histogram
+
+Home age distribution
+
+Neighborhood comparison
+
+Price per square foot
+
+Commute scatter plots
+
+Flood risk visualization
+
+School comparison
+
+Insurance comparison
+
+HOA comparison
+
+⸻
+
+Technology Stack
+
+Frontend
+
+React
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+shadcn/ui
+
+Leaflet or Mapbox
+
+Recharts
+
+TanStack Table
+
+Backend
+
+Python
+
+FastAPI
+
+PostgreSQL
+
+Redis
+
+Celery
+
+SQLAlchemy
+
+Authentication
+
+Auth.js or Clerk
+
+Hosting
+
+Vercel
+
+Railway or Render
+
+Docker
+
+GitHub Actions
+
+⸻
+
+AI Features
+
+Use OpenAI GPT-5.5 (or current best model) to:
+
+Summarize each listing.
+
+Explain pros and cons.
+
+Detect overpriced homes.
+
+Highlight unusual risks.
+
+Estimate negotiation leverage.
+
+Generate offer recommendations.
+
+Answer natural-language questions such as:
+
+“Show me homes under $500k with less than a 25-minute airport commute.”
+
+“Find homes with the best appreciation potential.”
+
+“Show only flood zone X homes.”
+
+“Compare Park West vs Hanahan.”
+
+⸻
+
+Performance
+
+Support:
+
+Thousands of listings
+
+Caching
+
+Fast filtering
+
+Background refresh
+
+Automatic nightly updates
+
+Responsive design
+
+Mobile-friendly
+
+⸻
+
+Overall Goal
+
+The final product should feel like a premium combination of Zillow, Redfin, BiggerPockets, Google Maps, and a financial planning application specifically optimized for buyers relocating to the Charleston, South Carolina area. It should provide actionable recommendations based on objective data, personalized financial constraints, commute preferences, and long-term investment potential, with polished visualizations, downloadable reports, and interactive analysis tools.
+
+this is a very large task proceed in a manner that retains peogress over time and avoids error
