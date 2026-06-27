@@ -177,6 +177,9 @@ export function Dashboard() {
 
         {/* Main */}
         <main className="flex min-w-0 flex-1 flex-col gap-3">
+          <div className="rounded-lg border border-amber-200 bg-amber-50 px-3 py-2 text-xs text-amber-800">
+            <strong>Demo data:</strong> these {analyzed.length} homes are realistic <em>samples</em>, not live MLS listings — the Zillow/Realtor/Redfin links open <strong>live for-sale searches</strong> for each home&apos;s ZIP. Wire a real feed (MLS/RESO, a CSV export, or a listings API) to populate actual homes — see the README.
+          </div>
           <SearchBar onApply={handleNL} />
           {nlExplanation ? (
             <div className="rounded-lg border border-harbor-200 bg-harbor-50 px-3 py-1.5 text-xs text-harbor-700">{nlExplanation}</div>
@@ -231,7 +234,7 @@ export function Dashboard() {
       </div>
 
       <footer className="border-t border-slate-200 bg-white px-4 py-3 text-center text-xs text-slate-400">
-        <HomeIcon className="mr-1 inline h-3 w-3" /> Sample/curated dataset for demonstration — figures are planning estimates, not financial or real-estate advice. See README for live-API integration seams.
+        <HomeIcon className="mr-1 inline h-3 w-3" /> Listings are realistic <strong>sample</strong> data (not live MLS) — site links open live for-sale searches for each home&apos;s ZIP. Figures are planning estimates, not financial or real-estate advice. See README for live-data integration seams.
       </footer>
 
       <HomeDetail home={selectedHome} onClose={() => setSelectedId(null)} />

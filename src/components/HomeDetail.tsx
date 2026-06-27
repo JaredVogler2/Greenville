@@ -99,9 +99,12 @@ export function HomeDetail({ home, onClose }: Props) {
 
         <div className="scroll-thin flex-1 space-y-4 overflow-y-auto p-5">
           {/* Photo */}
-          <div className="grid grid-cols-4 gap-2">
+          <div className="relative">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={l.photos[0]} alt="" className="col-span-4 h-48 w-full rounded-lg object-cover sm:h-56" />
+            <img src={l.photos[0]} alt="" className="h-48 w-full rounded-lg object-cover sm:h-56" />
+            <span className="absolute left-2 top-2 rounded-md bg-slate-900/70 px-2 py-0.5 text-[11px] font-medium text-white">
+              Sample photo
+            </span>
           </div>
 
           {/* Price + key facts */}
@@ -302,6 +305,9 @@ export function HomeDetail({ home, onClose }: Props) {
           </div>
 
           {/* Links */}
+          <p className="text-[11px] text-slate-400">
+            This is a sample home, so links open <span className="font-medium text-slate-500">live for-sale listings for ZIP {l.zip}</span> on each site (not this exact address).
+          </p>
           <div className="flex flex-wrap gap-2 pb-2">
             {links.map(([label, url]) =>
               url ? (
