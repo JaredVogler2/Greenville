@@ -138,8 +138,9 @@ export function parseQuery(raw: string): ParsedQuery {
   // Flood zone: "flood zone X", "zone AE", "no flood"
   const zone = q.match(/(?:flood\s*)?zone\s*(x\s*\(shaded\)|x|ae|ve|a)\b/);
   if (zone) {
-    const z = zone[1].toUpperCase().replace(/\s+/g, " ").trim() as FloodZone;
-    filters.floodZones = [z === "X (SHADED)" ? ("X (shaded)" as FloodZone) : z];
+    const raw = zone[1].toUpperCase().replace(/\s+/g, " ").trim();
+    const z: FloodZone = raw === "X (SHADED)" ? "X (shaded)" : (raw as FloodZone);
+    filters.floodZones = [z];
     notes.push(`flood zone ${z}`);
   } else if (/\bno flood|flood[- ]?free|minimal flood\b/.test(q)) {
     filters.floodZones = ["X"];
