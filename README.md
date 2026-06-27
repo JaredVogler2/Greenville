@@ -116,6 +116,26 @@ builders, flood-zone distributions, price/$psf bands, lat/lng centers and traffi
 commute minutes per submarket. This guarantees the app always builds and the engines always
 have rich data to analyze.
 
+> ⚠️ **The individual homes are not real.** Addresses, prices, MLS IDs and photos are
+> fabricated. Because there's no real address to deep-link to, each card's **Zillow / Realtor /
+> Redfin** links open a **live for-sale search for that home's ZIP** — so they land on real,
+> current listings near that profile, not on a specific (non-existent) address. What *is*
+> grounded in reality: community names, school names, builders, flood-zone patterns,
+> approximate geography, ballpark commute times, and all the mortgage/scoring/pilot math.
+
+### Getting real listings in
+
+Pick whichever fits your access — the analysis engine is unchanged, only `ListingSource` changes:
+
+1. **CSV / IDX export (free, fastest):** export current listings from your agent's MLS/IDX or a
+   spreadsheet; map each row to the `Listing` shape in a custom `ListingSource`. Real homes +
+   working deep links, but a static snapshot.
+2. **Listings API (auto-updating, paid):** integrate a real feed — e.g. SimplyRETS, Spark/FBS,
+   Bridge Interactive (Zillow Group), or a Realtor RapidAPI. Needs an API key and usually
+   MLS/IDX approval.
+3. **Free real layers you can add today without listings:** FEMA NFHL (flood zone by lat/lng) is
+   free; Google Distance Matrix (commute), GreatSchools (schools) and Walk Score need keys.
+
 **Going live is a drop-in swap.** All ingestion goes through one interface:
 
 - `src/lib/data-sources/index.ts` — `ListingSource` interface + `LocalListingSource`.

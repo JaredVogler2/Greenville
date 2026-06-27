@@ -462,18 +462,20 @@ for (const nb of NEIGHBORHOODS) {
     const [hsName, hsRating] = pick(a.high);
 
     const id = `${slugify(nb.name)}-${slugify(street)}-${num}-${counter}`;
-    const q = encodeURIComponent(`${address}, ${a.city}, SC ${a.zip}`);
+    // These are SAMPLE homes, so we can't deep-link to a specific real listing.
+    // Instead, point each site to a LIVE for-sale search for this home's ZIP so
+    // the links land on real, current listings near this profile.
+    const areaQ = encodeURIComponent(`${nb.name}, ${a.city}, SC ${a.zip}`);
 
     const listing = {
       id,
       mlsId: `CHS${String(2400000 + counter * 137).slice(0, 7)}`,
-      source: "Sample MLS feed (curated)",
+      source: "Sample (curated) — links open live area searches",
       listingUrls: {
-        zillow: `https://www.zillow.com/homes/${q}_rb/`,
-        realtor: `https://www.realtor.com/realestateandhomes-search/${q}`,
-        redfin: `https://www.redfin.com/stingray/do/location-autocomplete?location=${q}`,
-        googleMaps: `https://www.google.com/maps/search/?api=1&query=${lat},${lng}`,
-        virtualTour: rand() < 0.4 ? `https://my.matterport.com/show/?m=sample-${id}` : undefined,
+        zillow: `https://www.zillow.com/homes/for_sale/${a.zip}/`,
+        realtor: `https://www.realtor.com/realestateandhomes-search/${a.zip}`,
+        redfin: `https://www.redfin.com/zipcode/${a.zip}`,
+        googleMaps: `https://www.google.com/maps/search/?api=1&query=${areaQ}`,
       },
       photos: [
         `https://picsum.photos/seed/${id}-a/960/640`,
@@ -538,9 +540,6 @@ for (const nb of NEIGHBORHOODS) {
         Object.entries(a.commute).map(([k, v]) => [k, Math.max(2, Math.round(v + rng(-3, 3)))]),
       ),
     };
-
-    // Strip undefined (JSON.stringify drops them anyway, but keep clean).
-    if (!listing.listingUrls.virtualTour) delete listing.listingUrls.virtualTour;
 
     listings.push(listing);
   }
